@@ -292,10 +292,6 @@
    }
   ]
  },
- "amarena_cherries": {
-  "silpo": [],
-  "novus": []
- },
  "anchovies": {
   "silpo": [
    {
@@ -488,10 +484,6 @@
     }
    }
   ]
- },
- "aquafaba": {
-  "silpo": [],
-  "novus": []
  },
  "arborio_rice": {
   "silpo": [
@@ -1614,52 +1606,6 @@
     "weighted": false,
     "pack": {
      "amount": 200.0,
-     "unit": "g"
-    }
-   }
-  ]
- },
- "black_brioche_bun": {
-  "silpo": [],
-  "novus": []
- },
- "black_caviar": {
-  "silpo": [
-   {
-    "ref": "1edaf614-8e5e-6b86-9090-21996f99fc3d",
-    "title": "Ікра чорна Osetr Malossol сибірського осетра",
-    "weighted": false,
-    "pack": {
-     "amount": 50.0,
-     "unit": "g"
-    }
-   },
-   {
-    "ref": "1edaf614-8e5d-63e4-aa33-21996f99fc3d",
-    "title": "Ікра стерляді Osetr Malossol чорна осетрова",
-    "weighted": false,
-    "pack": {
-     "amount": 50.0,
-     "unit": "g"
-    }
-   }
-  ],
-  "novus": [
-   {
-    "ref": "04820154372176",
-    "title": "Ікра осетрова Malossol Premium 50г",
-    "weighted": false,
-    "pack": {
-     "amount": 50.0,
-     "unit": "g"
-    }
-   },
-   {
-    "ref": "04820250310096",
-    "title": "Ікра осетрових Royal Caviar Classic зерниста 50г",
-    "weighted": false,
-    "pack": {
-     "amount": 50.0,
      "unit": "g"
     }
    }
@@ -3134,27 +3080,6 @@
    }
   ]
  },
- "capocollo": {
-  "silpo": [
-   {
-    "ref": "1ee7f200-03c6-6fa6-a7e3-4fe3a5ae14dc",
-    "title": "Капоколо Крафтяр",
-    "weighted": true,
-    "pack": null
-   }
-  ],
-  "novus": [
-   {
-    "ref": "08018896883333",
-    "title": "Коппа Simonini нарізана 80г",
-    "weighted": false,
-    "pack": {
-     "amount": 80.0,
-     "unit": "g"
-    }
-   }
-  ]
- },
  "caraway": {
   "silpo": [
    {
@@ -3946,30 +3871,6 @@
    }
   ]
  },
- "chicken_whole": {
-  "silpo": [
-   {
-    "ref": "1ed07684-7ba0-66f8-a2c5-dd63763181f9",
-    "title": "Тушка курчати-бройлера патрана 1 категорія охолоджена в/у",
-    "weighted": true,
-    "pack": null
-   },
-   {
-    "ref": "1f0c4d45-c0bd-60b4-b46b-ddc35c8d1a9a",
-    "title": "Тушка курча 1,3-1,5 кг охолоджене в/у",
-    "weighted": true,
-    "pack": null
-   }
-  ],
-  "novus": [
-   {
-    "ref": "novus02880207000000",
-    "title": "Тушка курчати бройлера охолоджена ~2кг",
-    "weighted": true,
-    "pack": null
-   }
-  ]
- },
  "chicken_wings": {
   "silpo": [
    {
@@ -4074,10 +3975,6 @@
     }
    }
   ]
- },
- "chili_crisp": {
-  "silpo": [],
-  "novus": []
  },
  "chili_flakes": {
   "silpo": [
@@ -4228,30 +4125,6 @@
     "weighted": false,
     "pack": {
      "amount": 350.0,
-     "unit": "g"
-    }
-   }
-  ]
- },
- "chocolate_sticks": {
-  "silpo": [
-   {
-    "ref": "1f11191f-9112-6724-91bd-bd7d0ba234cf",
-    "title": "Палички-соломка Pocky у шоколадній глазурі",
-    "weighted": false,
-    "pack": {
-     "amount": 58.0,
-     "unit": "g"
-    }
-   }
-  ],
-  "novus": [
-   {
-    "ref": "07622201137632",
-    "title": "Печиво-палички Milka Lila Sticks в молочному шоколаді 112г",
-    "weighted": false,
-    "pack": {
-     "amount": 112.0,
      "unit": "g"
     }
    }
@@ -4991,10 +4864,6 @@
    }
   ]
  },
- "coral_mushroom": {
-  "silpo": [],
-  "novus": []
- },
  "corn_cob": {
   "silpo": [
    {
@@ -5186,10 +5055,6 @@
     }
    }
   ]
- },
- "corn_syrup": {
-  "silpo": [],
-  "novus": []
  },
  "corn_tortilla": {
   "silpo": [
@@ -5588,10 +5453,6 @@
   ],
   "novus": []
  },
- "creme_fraiche": {
-  "silpo": [],
-  "novus": []
- },
  "croissant": {
   "silpo": [
    {
@@ -5799,10 +5660,6 @@
     "pack": null
    }
   ]
- },
- "danmuji": {
-  "silpo": [],
-  "novus": []
  },
  "dark_chocolate": {
   "silpo": [
@@ -6012,10 +5869,6 @@
     }
    }
   ]
- },
- "doenjang": {
-  "silpo": [],
-  "novus": []
  },
  "dogwood_sauce": {
   "silpo": [
@@ -7029,10 +6882,6 @@
   ],
   "novus": []
  },
- "food_coloring_red": {
-  "silpo": [],
-  "novus": []
- },
  "freeze_dried_raspberry": {
   "silpo": [
    {
@@ -7530,10 +7379,6 @@
    }
   ]
  },
- "fuzhu": {
-  "silpo": [],
-  "novus": []
- },
  "galangal": {
   "silpo": [
    {
@@ -7799,10 +7644,6 @@
     }
    }
   ]
- },
- "glucose_syrup": {
-  "silpo": [],
-  "novus": []
  },
  "gluten_free_flour": {
   "silpo": [
@@ -8317,10 +8158,6 @@
     }
    }
   ]
- },
- "green_adjika": {
-  "silpo": [],
-  "novus": []
  },
  "green_beans": {
   "silpo": [
@@ -9635,14 +9472,6 @@
    }
   ]
  },
- "imeruli_cheese": {
-  "silpo": [],
-  "novus": []
- },
- "inari_age": {
-  "silpo": [],
-  "novus": []
- },
  "instant_coffee": {
   "silpo": [
    {
@@ -9684,10 +9513,6 @@
     }
    }
   ]
- },
- "invert_syrup": {
-  "silpo": [],
-  "novus": []
  },
  "italian_herbs": {
   "silpo": [
@@ -10022,20 +9847,6 @@
   ],
   "novus": []
  },
- "kanpyo": {
-  "silpo": [
-   {
-    "ref": "1ed21e6a-4ade-6134-92cb-ef904fa4ce13",
-    "title": "Гарбуз Asia Kitchen Kanpyo маринований",
-    "weighted": false,
-    "pack": {
-     "amount": 100.0,
-     "unit": "g"
-    }
-   }
-  ],
-  "novus": []
- },
  "kataifi": {
   "silpo": [
    {
@@ -10048,10 +9859,6 @@
     }
    }
   ],
-  "novus": []
- },
- "katsuobushi": {
-  "silpo": [],
   "novus": []
  },
  "kefir": {
@@ -11395,10 +11202,6 @@
    }
   ]
  },
- "maritozzo_bun": {
-  "silpo": [],
-  "novus": []
- },
  "marsala_wine": {
   "silpo": [],
   "novus": [
@@ -11783,10 +11586,6 @@
     }
    }
   ]
- },
- "minced_goat": {
-  "silpo": [],
-  "novus": []
  },
  "minced_lamb": {
   "silpo": [
@@ -12225,10 +12024,6 @@
    }
   ]
  },
- "nadugi": {
-  "silpo": [],
-  "novus": []
- },
  "napa_cabbage": {
   "silpo": [
    {
@@ -12259,10 +12054,6 @@
     }
    }
   ],
-  "novus": []
- },
- "nduja": {
-  "silpo": [],
   "novus": []
  },
  "nori": {
@@ -12414,21 +12205,6 @@
     }
    }
   ]
- },
- "nutria": {
-  "silpo": [
-   {
-    "ref": "1edb260a-7918-67ce-8fd0-e990029622e2",
-    "title": "Нутрія тушка охолоджена",
-    "weighted": true,
-    "pack": null
-   }
-  ],
-  "novus": []
- },
- "oat_ciabatta": {
-  "silpo": [],
-  "novus": []
  },
  "oat_flakes": {
   "silpo": [
@@ -12756,48 +12532,6 @@
    }
   ]
  },
- "oreo_cookies": {
-  "silpo": [
-   {
-    "ref": "1ed07655-5a95-6636-8e26-dd63763181f9",
-    "title": "Печиво Oreo Original з какао та начинкою з ванільним смаком",
-    "weighted": false,
-    "pack": {
-     "amount": 95.0,
-     "unit": "g"
-    }
-   },
-   {
-    "ref": "1ed07655-5a95-69ce-9e3a-dd63763181f9",
-    "title": "Печиво Oreo Original з какао та начинкою з ванільним смаком",
-    "weighted": false,
-    "pack": {
-     "amount": 228.0,
-     "unit": "g"
-    }
-   }
-  ],
-  "novus": [
-   {
-    "ref": "07622210309358",
-    "title": "Печиво-сендвіч Oreo з какао та кремовою ванільною начинкою 95г",
-    "weighted": false,
-    "pack": {
-     "amount": 95.0,
-     "unit": "g"
-    }
-   },
-   {
-    "ref": "07622210375742",
-    "title": "Печиво-сендвіч Oreo з какао та кремовою ванільною начинкою 228г",
-    "weighted": false,
-    "pack": {
-     "amount": 228.0,
-     "unit": "g"
-    }
-   }
-  ]
- },
  "orzo": {
   "silpo": [
    {
@@ -12821,10 +12555,6 @@
     }
    }
   ]
- },
- "ostrich_liver": {
-  "silpo": [],
-  "novus": []
  },
  "oxtail": {
   "silpo": [
@@ -12957,10 +12687,6 @@
     }
    }
   ],
-  "novus": []
- },
- "pad_kra_pao_sauce": {
-  "silpo": [],
   "novus": []
  },
  "pad_thai_sauce": {
@@ -13102,10 +12828,6 @@
     }
    }
   ]
- },
- "panipuri_shells": {
-  "silpo": [],
-  "novus": []
  },
  "panko": {
   "silpo": [
@@ -13314,10 +13036,6 @@
     }
    }
   ]
- },
- "patagonian_toothfish": {
-  "silpo": [],
-  "novus": []
  },
  "peach": {
   "silpo": [],
@@ -13589,30 +13307,6 @@
    }
   ]
  },
- "pepper_mix": {
-  "silpo": [
-   {
-    "ref": "1efa21ac-6396-65ec-b29c-c13d762e18d5",
-    "title": "Суміш перців PREMIA горошком",
-    "weighted": false,
-    "pack": {
-     "amount": 20.0,
-     "unit": "g"
-    }
-   }
-  ],
-  "novus": [
-   {
-    "ref": "04820154833264",
-    "title": "Суміш перців Мрія Класична горошком 30г",
-    "weighted": false,
-    "pack": {
-     "amount": 30.0,
-     "unit": "g"
-    }
-   }
-  ]
- },
  "pepperoni": {
   "silpo": [
    {
@@ -13813,10 +13507,6 @@
     }
    }
   ]
- },
- "piemontino_cheese": {
-  "silpo": [],
-  "novus": []
  },
  "pike": {
   "silpo": [
@@ -14088,20 +13778,6 @@
     }
    }
   ]
- },
- "plant_kebab": {
-  "silpo": [
-   {
-    "ref": "1eefddcf-f141-68f4-9b24-2101d577d574",
-    "title": "Кебаб Wanted Vegan рослинний",
-    "weighted": false,
-    "pack": {
-     "amount": 200.0,
-     "unit": "g"
-    }
-   }
-  ],
-  "novus": []
  },
  "plant_mince": {
   "silpo": [
@@ -14577,10 +14253,6 @@
     "pack": null
    }
   ]
- },
- "potato_bun": {
-  "silpo": [],
-  "novus": []
  },
  "powdered_sugar": {
   "silpo": [
@@ -15472,10 +15144,6 @@
   ],
   "novus": []
  },
- "red_sauerkraut": {
-  "silpo": [],
-  "novus": []
- },
  "red_wine": {
   "silpo": [
    {
@@ -16041,20 +15709,6 @@
     "pack": {
      "amount": 20,
      "unit": "g"
-    }
-   }
-  ]
- },
- "sake": {
-  "silpo": [],
-  "novus": [
-   {
-    "ref": "04970860214014",
-    "title": "Саке Akashi-Tai Sake Honjozo 15% 0,72л",
-    "weighted": false,
-    "pack": {
-     "amount": 720.0,
-     "unit": "ml"
     }
    }
   ]
@@ -16836,10 +16490,6 @@
    }
   ]
  },
- "serviceberry": {
-  "silpo": [],
-  "novus": []
- },
  "sesame_oil": {
   "silpo": [
    {
@@ -17191,14 +16841,6 @@
     "pack": null
    }
   ]
- },
- "sichuan_chili_oil": {
-  "silpo": [],
-  "novus": []
- },
- "silken_tofu": {
-  "silpo": [],
-  "novus": []
  },
  "smoked_chicken_fillet": {
   "silpo": [
@@ -17622,10 +17264,6 @@
   ],
   "novus": []
  },
- "snow_peas": {
-  "silpo": [],
-  "novus": []
- },
  "soba_noodles": {
   "silpo": [
    {
@@ -17807,10 +17445,6 @@
     }
    }
   ]
- },
- "sourdough_starter": {
-  "silpo": [],
-  "novus": []
  },
  "soy_sauce": {
   "silpo": [
@@ -18104,48 +17738,6 @@
    }
   ]
  },
- "spirulina": {
-  "silpo": [
-   {
-    "ref": "1ed07672-3584-632a-9d8a-c1af87aa927f",
-    "title": "Порошок Dragon Superfoods зі спіруліни",
-    "weighted": false,
-    "pack": {
-     "amount": 200.0,
-     "unit": "g"
-    }
-   },
-   {
-    "ref": "1ed07666-eca7-65cc-a87c-c1af87aa927f",
-    "title": "Спіруліна Intenson у порошку органічного походження",
-    "weighted": false,
-    "pack": {
-     "amount": 100.0,
-     "unit": "g"
-    }
-   }
-  ],
-  "novus": [
-   {
-    "ref": "04820296140015",
-    "title": "Спіруліна Top Superfoods 100г",
-    "weighted": false,
-    "pack": {
-     "amount": 100.0,
-     "unit": "g"
-    }
-   },
-   {
-    "ref": "04820296140022",
-    "title": "Спіруліна Top Superfoods 250г",
-    "weighted": false,
-    "pack": {
-     "amount": 250.0,
-     "unit": "g"
-    }
-   }
-  ]
- },
  "split_peas": {
   "silpo": [
    {
@@ -18187,10 +17779,6 @@
     }
    }
   ]
- },
- "spring_roll_wrappers": {
-  "silpo": [],
-  "novus": []
  },
  "squid": {
   "silpo": [
@@ -19533,10 +19121,6 @@
    }
   ]
  },
- "tobiko": {
-  "silpo": [],
-  "novus": []
- },
  "tofu": {
   "silpo": [
    {
@@ -19569,29 +19153,6 @@
     }
    }
   ]
- },
- "tom_kha_paste": {
-  "silpo": [
-   {
-    "ref": "1ed07687-0acf-6a52-82ba-c1af87aa927f",
-    "title": "Паста Aroy-D «Том Кха»",
-    "weighted": false,
-    "pack": {
-     "amount": 400.0,
-     "unit": "g"
-    }
-   },
-   {
-    "ref": "1ed07632-a15e-69b4-bc2d-dd63763181f9",
-    "title": "Паста deSiam «Том Кха» тайська для супу",
-    "weighted": false,
-    "pack": {
-     "amount": 70.0,
-     "unit": "g"
-    }
-   }
-  ],
-  "novus": []
  },
  "tom_yum_paste": {
   "silpo": [
@@ -19758,10 +19319,6 @@
     }
    }
   ],
-  "novus": []
- },
- "tortellini": {
-  "silpo": [],
   "novus": []
  },
  "tortiglioni": {
@@ -20341,10 +19898,6 @@
    }
   ]
  },
- "tyulka": {
-  "silpo": [],
-  "novus": []
- },
  "tyulka_salted": {
   "silpo": [
    {
@@ -20522,10 +20075,6 @@
     }
    }
   ]
- },
- "veal_brain": {
-  "silpo": [],
-  "novus": []
  },
  "veal_cheeks": {
   "silpo": [],
@@ -20825,48 +20374,6 @@
     "weighted": false,
     "pack": {
      "amount": 910.0,
-     "unit": "ml"
-    }
-   }
-  ]
- },
- "vodka": {
-  "silpo": [
-   {
-    "ref": "1ee22a75-f2ed-6dbc-a00a-21f2a0dc831d",
-    "title": "Горілка Oxygenium особлива",
-    "weighted": false,
-    "pack": {
-     "amount": 700.0,
-     "unit": "ml"
-    }
-   },
-   {
-    "ref": "1edb7c88-cae6-6022-8495-5fd26e6ec661",
-    "title": "Горілка Absolut 40%",
-    "weighted": false,
-    "pack": {
-     "amount": 50.0,
-     "unit": "ml"
-    }
-   }
-  ],
-  "novus": [
-   {
-    "ref": "04607024761434",
-    "title": "Горілка Oxigenium 40% 0,5л",
-    "weighted": false,
-    "pack": {
-     "amount": 500.0,
-     "unit": "ml"
-    }
-   },
-   {
-    "ref": "04823098200574",
-    "title": "Горілка Oxigenium 40% 1л",
-    "weighted": false,
-    "pack": {
-     "amount": 1000.0,
      "unit": "ml"
     }
    }
@@ -21342,10 +20849,6 @@
    }
   ]
  },
- "wild_garlic_pickled": {
-  "silpo": [],
-  "novus": []
- },
  "wild_rice": {
   "silpo": [
    {
@@ -21535,10 +21038,6 @@
   ]
  },
  "zaatar": {
-  "silpo": [],
-  "novus": []
- },
- "zhurek_starter": {
   "silpo": [],
   "novus": []
  },
