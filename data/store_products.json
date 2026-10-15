@@ -41,6 +41,83 @@
    }
   ]
  },
+ "adyghe_cheese": {
+  "silpo": [
+   {
+    "ref": "1edaedb1-3ade-6df0-a13d-4d6f8c275487",
+    "title": "Сир ДМЗ «Адигейський» 45% в/у",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ef1312d-586b-6690-b921-37e4aed669ec",
+    "title": "Сир «Премія»® Адигейський 40%",
+    "weighted": false,
+    "pack": {
+     "amount": 275.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820004237426",
+    "title": "Сир Волошкове Поле Адигейський м'який 40% 275г",
+    "weighted": false,
+    "pack": {
+     "amount": 275.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "adzuki_beans": {
+  "silpo": [
+   {
+    "ref": "1f16c309-0d95-63da-9c82-f37f1391e82b",
+    "title": "Квасоля Екород Адзукі органічна",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "agave_syrup": {
+  "silpo": [
+   {
+    "ref": "1ed0767f-5629-69ba-8a37-eb0bb71c4ffc",
+    "title": "Сироп Dragon Superfoods з агави",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07677-bf2d-6f72-9e8e-9d79fa2ad32f",
+    "title": "Сироп Country Life з агави",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "03088543506255",
+    "title": "Сироп агави Sunny Via 350г",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "aioli": {
   "silpo": [
    {
@@ -106,6 +183,48 @@
    }
   ],
   "novus": []
+ },
+ "almond_milk": {
+  "silpo": [
+   {
+    "ref": "1f0aa1b6-7ae6-672a-a2d6-11f90094186a",
+    "title": "Напій ультрапастеризований Feels good мигдальний",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ed07673-0fbe-6158-b19f-dd63763181f9",
+    "title": "Напій Alpro Мигдалевий для професіоналів",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "05411188110835",
+    "title": "Напій мигдальний Alpro Nutty Almond з кальцієм 1л",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "04820254401967",
+    "title": "Напій мигдальний Green Smile Barista ультрапастеризований 1,5% 1л",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
+   }
+  ]
  },
  "almonds": {
   "silpo": [
@@ -173,6 +292,10 @@
    }
   ]
  },
+ "amarena_cherries": {
+  "silpo": [],
+  "novus": []
+ },
  "anchovies": {
   "silpo": [
    {
@@ -206,6 +329,48 @@
    }
   ]
  },
+ "aperol": {
+  "silpo": [
+   {
+    "ref": "1ed18dfb-b89a-6466-a9fe-ef978c4a0ae5",
+    "title": "Аперитив Aperol Aperetivo",
+    "weighted": false,
+    "pack": {
+     "amount": 700.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ed1ba8b-6f04-6e3e-84fe-ef978c4a0ae5",
+    "title": "Аперитив Aperol",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08002230000302",
+    "title": "Аперитив Aperol Aperetivo 11% 0,7л",
+    "weighted": false,
+    "pack": {
+     "amount": 700.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "08002230000012",
+    "title": "Аперитив Aperol Aperetivo 1л",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
  "apple": {
   "silpo": [
    {
@@ -233,6 +398,48 @@
     "title": "Яблуко Голден 65+",
     "weighted": true,
     "pack": null
+   }
+  ]
+ },
+ "apple_cider_vinegar": {
+  "silpo": [
+   {
+    "ref": "1ede47c8-402f-6452-bbff-2bf2a80c66ed",
+    "title": "Оцет яблучний Vinagro натуральний 6%",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ed07683-3505-6636-a21c-c1af87aa927f",
+    "title": "Оцет «Кама» яблучний 6%",
+    "weighted": false,
+    "pack": {
+     "amount": 850.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820086370134",
+    "title": "Оцет Anri яблучний 6% 0,85л",
+    "weighted": false,
+    "pack": {
+     "amount": 850.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "04820015944160",
+    "title": "Оцет яблучний Руна Елітний 6% 0,5л",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
    }
   ]
  },
@@ -282,6 +489,10 @@
    }
   ]
  },
+ "aquafaba": {
+  "silpo": [],
+  "novus": []
+ },
  "arborio_rice": {
   "silpo": [
    {
@@ -310,6 +521,81 @@
     "weighted": false,
     "pack": {
      "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "arrabbiata_sauce": {
+  "silpo": [
+   {
+    "ref": "1edb7b24-fd56-6346-9468-d92983279d6b",
+    "title": "Соус Barilla Аррабiата томатний",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edfa7de-51a8-65a4-af04-1b86d8a33b41",
+    "title": "Соус томатний Filippo Berio Арраббіата з гострим перцем",
+    "weighted": false,
+    "pack": {
+     "amount": 340.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08004123019958",
+    "title": "Соус Basso Аррабіата 350г",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "08007041000015",
+    "title": "Соус Easy Montali Аррабіата 90г",
+    "weighted": false,
+    "pack": {
+     "amount": 90.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "artichokes_marinated": {
+  "silpo": [
+   {
+    "ref": "1ed1ec7e-6b94-6e78-8822-29a5436cd7be",
+    "title": "Артишоки Polli мариновані на грилі в олії",
+    "weighted": false,
+    "pack": {
+     "amount": 185.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "05200311710529",
+    "title": "Артишоки Almito в олії мариновані 320мл",
+    "weighted": false,
+    "pack": {
+     "amount": 320.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "08019176101130",
+    "title": "Артишоки Ricette di Puglia грильовані 100г",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
      "unit": "g"
     }
    }
@@ -452,6 +738,20 @@
     }
    }
   ]
+ },
+ "baby_corn_canned": {
+  "silpo": [
+   {
+    "ref": "1eee3251-3c9f-6598-a2d5-7f49d9867b07",
+    "title": "Кукурудза Iberica молода в початках маринована",
+    "weighted": false,
+    "pack": {
+     "amount": 330.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "baby_octopus": {
   "silpo": [
@@ -624,6 +924,48 @@
    }
   ]
  },
+ "baking_soda": {
+  "silpo": [
+   {
+    "ref": "1edbda21-e58e-6180-881f-95105d98d2d6",
+    "title": "Сода «Повна Чаша»® харчова п/е упаковка",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07643-d495-634e-922a-dd63763181f9",
+    "title": "Сода Ugrow харчова",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820160761001",
+    "title": "Сода харчова Marka Promo 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820106490125",
+    "title": "Сода харчова НЗ 450г",
+    "weighted": false,
+    "pack": {
+     "amount": 450.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "balsamic_cream": {
   "silpo": [
    {
@@ -708,6 +1050,44 @@
    }
   ]
  },
+ "bao_buns": {
+  "silpo": [
+   {
+    "ref": "1edbc53f-41c1-6440-9a4f-696912d125c0",
+    "title": "Булочка Хлібний будиночок Бао Пелюстка парова",
+    "weighted": false,
+    "pack": {
+     "amount": 160.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "barberry_dried": {
+  "silpo": [
+   {
+    "ref": "1efa21ac-900b-6b90-978d-c13d762e18d5",
+    "title": "Барбарис PREMIA сушений",
+    "weighted": false,
+    "pack": {
+     "amount": 10.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820267271335",
+    "title": "Барбарис Банка Спецій червоний 90г",
+    "weighted": false,
+    "pack": {
+     "amount": 90.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "basil": {
   "silpo": [
    {
@@ -736,6 +1116,48 @@
     "weighted": false,
     "pack": {
      "amount": 50.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "basmati_rice": {
+  "silpo": [
+   {
+    "ref": "1ed0763f-dca4-60f2-ad56-dd63763181f9",
+    "title": "Рис Trapezaї Басматі натуральний",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07685-e620-6f0e-adbb-eb0bb71c4ffc",
+    "title": "Рис Attuale «Басматі»",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820009102767",
+    "title": "Рис Novus Басматі 1кг",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "08693374255866",
+    "title": "Рис Legurme Басматі пропарений 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
      "unit": "g"
     }
    }
@@ -905,6 +1327,36 @@
   ],
   "novus": []
  },
+ "beef_liver": {
+  "silpo": [
+   {
+    "ref": "1edaecda-1bfc-6360-9827-fdc61a51c956",
+    "title": "Печінка яловича",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed075ff-63d0-6b0c-9ab6-dd63763181f9",
+    "title": "Печінка яловича охолоджена",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02884363000000",
+    "title": "Печінка яловича дефростована",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "novus02850657000000",
+    "title": "Печінка яловича охолоджена",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "beef_marrow_bones": {
   "silpo": [],
   "novus": [
@@ -939,6 +1391,26 @@
     "pack": null
    }
   ]
+ },
+ "beef_pastrami": {
+  "silpo": [
+   {
+    "ref": "1ed07615-51ce-68da-9039-dd63763181f9",
+    "title": "Пастрома «Алан» с/к в/ґ",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1edaf5c3-503d-6a2e-951f-21996f99fc3d",
+    "title": "Пастрома «Алан» с/к вищого ґатунку, нарізка",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "beef_pulp": {
   "silpo": [
@@ -992,6 +1464,30 @@
   ],
   "novus": []
  },
+ "beef_shoulder": {
+  "silpo": [
+   {
+    "ref": "1edb798d-9c71-6398-81b8-3b5b127aa952",
+    "title": "Яловича лопатка без кістки охолоджена",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1eef9e7b-3f1d-679c-a98f-476770d85464",
+    "title": "Яловичина розробка лопатка без кістки охолоджена",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02877653000000",
+    "title": "Лопатка яловича без кістки охолоджена",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "beef_tenderloin": {
   "silpo": [
    {
@@ -1018,6 +1514,48 @@
     "title": "Язик яловичий охолоджений",
     "weighted": true,
     "pack": null
+   }
+  ]
+ },
+ "beer": {
+  "silpo": [
+   {
+    "ref": "1ee8b252-0b5d-6aea-bef3-f58b40446f64",
+    "title": "Пиво Чернігівське світле 4,6% з/б",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1f10b919-2a68-67f0-808a-87e64b0d47e0",
+    "title": "Пиво Чернігівське світле пастеризоване",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04600721010713",
+    "title": "Пиво Чернігівське світле 4,8% 0,5л",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "04820034927755",
+    "title": "Пиво Чернігівське світле 4,6% 1л",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
    }
   ]
  },
@@ -1076,6 +1614,52 @@
     "weighted": false,
     "pack": {
      "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "black_brioche_bun": {
+  "silpo": [],
+  "novus": []
+ },
+ "black_caviar": {
+  "silpo": [
+   {
+    "ref": "1edaf614-8e5e-6b86-9090-21996f99fc3d",
+    "title": "Ікра чорна Osetr Malossol сибірського осетра",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edaf614-8e5d-63e4-aa33-21996f99fc3d",
+    "title": "Ікра стерляді Osetr Malossol чорна осетрова",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820154372176",
+    "title": "Ікра осетрова Malossol Premium 50г",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820250310096",
+    "title": "Ікра осетрових Royal Caviar Classic зерниста 50г",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
      "unit": "g"
     }
    }
@@ -1202,6 +1786,20 @@
    }
   ]
  },
+ "black_truffle": {
+  "silpo": [
+   {
+    "ref": "1eef27f4-f942-6fd0-a59e-6dfd74ef757b",
+    "title": "Трюфель Tartufi Jimmy чорний цілий",
+    "weighted": false,
+    "pack": {
+     "amount": 25.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "blood_sausage": {
   "silpo": [
    {
@@ -1271,6 +1869,45 @@
    }
   ]
  },
+ "blueberry": {
+  "silpo": [
+   {
+    "ref": "1ed075ed-9ebb-65e4-a9e1-dd63763181f9",
+    "title": "Лохина",
+    "weighted": false,
+    "pack": {
+     "amount": 125.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f1aca03-88e1-6dae-9ab0-53e1bc894b10",
+    "title": "Лохина sekoya",
+    "weighted": false,
+    "pack": {
+     "amount": 125.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02869649000000",
+    "title": "Лохина",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "04820295790020",
+    "title": "Лохина 125г",
+    "weighted": false,
+    "pack": {
+     "amount": 125.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "boiled_condensed_milk": {
   "silpo": [
    {
@@ -1303,6 +1940,20 @@
     }
    }
   ]
+ },
+ "bok_choy": {
+  "silpo": [
+   {
+    "ref": "1ef8368e-9e82-64d6-bdf4-eb3015a9c571",
+    "title": "Капуста Пак-чой",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "borodinsky_bread": {
   "silpo": [
@@ -1570,6 +2221,125 @@
    }
   ]
  },
+ "broccolini": {
+  "silpo": [
+   {
+    "ref": "1f1bc579-7fea-6620-8ecf-a966e41094d7",
+    "title": "Броколіні",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "brown_rice": {
+  "silpo": [
+   {
+    "ref": "1ed2df60-9396-6342-89a8-8f05abac3364",
+    "title": "Рис «Аттуаль» нешліфований бурий",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0763f-dca4-6426-a2cb-dd63763181f9",
+    "title": "Рис Trapeza Bellissimo бурий довгозернистий нешліфований",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820168881282",
+    "title": "Рис Сто Пудів довгозернистий нешліфований 400г",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820009103207",
+    "title": "Рис \tNovus довгозернистий нешліфований 900г",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "brown_rice_flour": {
+  "silpo": [
+   {
+    "ref": "1edafc68-686c-6194-962b-5f8022da6d6b",
+    "title": "Борошно World's Rice з нешліфованого рису без глютену",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820009102989",
+    "title": "Борошно World's Rice з нешліфованого рису 900г",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "brussels_sprouts": {
+  "silpo": [
+   {
+    "ref": "1ed075d5-7aae-6858-9a17-dd63763181f9",
+    "title": "Капуста брюссельська",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1f0531d8-b872-62ae-8afe-7f525411d316",
+    "title": "Капуста Брюссельська",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820219963813",
+    "title": "Капуста Брюссельська 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "05903154541984",
+    "title": "Капуста брюссельська Bauer заморожена 400г",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "brynza": {
   "silpo": [
    {
@@ -1739,6 +2509,39 @@
   ],
   "novus": []
  },
+ "bulgur": {
+  "silpo": [
+   {
+    "ref": "1f18ad71-7278-6ae6-87aa-cf825c0b1572",
+    "title": "Булгур Trapeza крупний",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb264b-c6e1-6bcc-ba6b-e990029622e2",
+    "title": "Булгур Attuale крупний",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08693374256160",
+    "title": "Булгур Legurme крупний 1кг",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "burger_bun": {
   "silpo": [
    {
@@ -1846,6 +2649,33 @@
    }
   ]
  },
+ "butterfish_cold_smoked": {
+  "silpo": [
+   {
+    "ref": "1ed07645-2dc7-6d6c-aecd-dd63763181f9",
+    "title": "Масляна «Премія»® холодного копчення, нарізка",
+    "weighted": false,
+    "pack": {
+     "amount": 120.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edbd02d-6c5f-6276-81fd-09e441c4ee6a",
+    "title": "Масляна балик холодного копчення",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02859823000000",
+    "title": "Масляна балик холодного копчення",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "buzhenyna": {
   "silpo": [
    {
@@ -1875,6 +2705,110 @@
     "pack": null
    }
   ]
+ },
+ "caesar_sauce": {
+  "silpo": [
+   {
+    "ref": "1eeb6164-9e99-69bc-923f-f9f49fa55e76",
+    "title": "Соус Salateria Fresh Цезар салатний",
+    "weighted": false,
+    "pack": {
+     "amount": 320.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f1086f0-1129-60d8-9e4f-2f9ba6d50a08",
+    "title": "Соус Щедро Цезар із зернами білої гірчиці та часником",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823097414149",
+    "title": "Соус Щедро Цезар 180г",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820210550968",
+    "title": "Соус Salateria Fresh Цезар 320г",
+    "weighted": false,
+    "pack": {
+     "amount": 320.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "camembert": {
+  "silpo": [
+   {
+    "ref": "1f127dc4-0263-60cc-8bbd-d5bf45d1436b",
+    "title": "Сир «Премія»® Камамбер 60%",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07689-862a-6970-8ba3-c1af87aa927f",
+    "title": "Сир Cremiere de France Laita «Камамбер» 45% з коров'ячого молока",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "03523230053655",
+    "title": "Сир Grand Fermage Камамбер 44% 240г",
+    "weighted": false,
+    "pack": {
+     "amount": 240.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "03523230053631",
+    "title": "Сир Grand Fermage Камамбер 44% 125г",
+    "weighted": false,
+    "pack": {
+     "amount": 125.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "candied_orange_peel": {
+  "silpo": [
+   {
+    "ref": "1edd00db-c5c1-6b36-9b22-1326e5bed2cc",
+    "title": "Цукати апельсин",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1edf11de-b726-6fa2-883c-a71ccebfc9ea",
+    "title": "Цукати Лавка традицій Київське сухе варення з апельсина",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "cane_sugar": {
   "silpo": [
@@ -1923,6 +2857,81 @@
     "pack": {
      "amount": 1000.0,
      "unit": "g"
+    }
+   }
+  ]
+ },
+ "canned_peach": {
+  "silpo": [
+   {
+    "ref": "1ed0768d-2566-6356-8abf-bd2f9278424b",
+    "title": "Персики половинками «Премія»® в легкому сиропі",
+    "weighted": false,
+    "pack": {
+     "amount": 680.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb028a-4935-6f82-9ddd-9f7fd78fecf4",
+    "title": "Персики Vera половинками в легкому сиропі",
+    "weighted": false,
+    "pack": {
+     "amount": 560.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04008638161205",
+    "title": "Персики Лорадо половинки в легкому сиропі 820г",
+    "weighted": false,
+    "pack": {
+     "amount": 820.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "canned_pineapple": {
+  "silpo": [
+   {
+    "ref": "1ed075f0-3f47-6c9a-9f6b-dd63763181f9",
+    "title": "Ананас шматочками «Премія»® в легкому сиропі",
+    "weighted": false,
+    "pack": {
+     "amount": 565.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed075f0-3f48-6014-ba6c-dd63763181f9",
+    "title": "Ананас шматочками «Премія»® в легкому сиропі",
+    "weighted": false,
+    "pack": {
+     "amount": 850.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04008638112016",
+    "title": "Ананаси Lorado шматочками у легкому сиропі 580мл",
+    "weighted": false,
+    "pack": {
+     "amount": 580.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "04008638112238",
+    "title": "Ананас Dario шматочки в сиропi 580мл",
+    "weighted": false,
+    "pack": {
+     "amount": 580.0,
+     "unit": "ml"
     }
    }
   ]
@@ -1999,6 +3008,66 @@
      "amount": 160.0,
      "unit": "g"
     }
+   }
+  ]
+ },
+ "cannelloni": {
+  "silpo": [
+   {
+    "ref": "1f09e5a2-df1c-6e40-a0b8-bb75c8f4e950",
+    "title": "Макаронні вироби Pasta Zara Канелоні 250",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f09d9a0-4325-6504-bfa9-bb75c8f4e950",
+    "title": "Вироби макаронні Garofalo Каннелоні",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08008857601090",
+    "title": "Макаронні вироби Pasta Reggia Каннеллоні 250г",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "capelin": {
+  "silpo": [
+   {
+    "ref": "1ed075dc-f0af-6d3e-984f-dd63763181f9",
+    "title": "Мойва свіжоморожена",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1edaba09-6c0b-6b52-a7be-998a0267f7e8",
+    "title": "Мойва Iceberg свіжоморожена",
+    "weighted": false,
+    "pack": {
+     "amount": 700.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02850531000000",
+    "title": "Мойва свіжоморожена",
+    "weighted": true,
+    "pack": null
    }
   ]
  },
@@ -2118,6 +3187,89 @@
     }
    }
   ]
+ },
+ "cardamom": {
+  "silpo": [
+   {
+    "ref": "1efe4199-5af8-66d6-93b5-25a12daa3fa1",
+    "title": "Кардамон Банка спецій мелений",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed075e6-e31d-62c0-9a34-dd63763181f9",
+    "title": "Приправа Eko кардамон",
+    "weighted": false,
+    "pack": {
+     "amount": 6.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820001172973",
+    "title": "Кардамон Еко 6г",
+    "weighted": false,
+    "pack": {
+     "amount": 6.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820267271052",
+    "title": "Кардамон Банка Спецій мелений 150г",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "carp": {
+  "silpo": [
+   {
+    "ref": "1ed07660-2806-6b92-958d-dd63763181f9",
+    "title": "Короп патраний чищений охолоджений",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1edb79af-3549-6dec-b6d0-19e2d00d0449",
+    "title": "Короп патраний охолоджений 1-",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02857295000000",
+    "title": "Короп патраний з головою охолоджений",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
+ "carp_fillet": {
+  "silpo": [
+   {
+    "ref": "1ed0767b-d9e4-6ab0-96e7-9d79fa2ad32f",
+    "title": "Короп філе охолоджене",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1edb8906-0e72-6352-bcc6-350473e48254",
+    "title": "Короп, філе пласт охолоджений",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
  },
  "carrot": {
   "silpo": [
@@ -2391,6 +3543,53 @@
    }
   ]
  },
+ "cheese_grissini": {
+  "silpo": [
+   {
+    "ref": "1f095a29-79c4-60ca-9fdd-0bd8a5765fb2",
+    "title": "Гріссіні Babene міні з сиром пармезан",
+    "weighted": false,
+    "pack": {
+     "amount": 125.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "cherry_jam": {
+  "silpo": [
+   {
+    "ref": "1ed0765e-4a02-6a72-ae7c-c1af87aa927f",
+    "title": "Конфітюр «Верес» вишневий с/б",
+    "weighted": false,
+    "pack": {
+     "amount": 370.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0767e-2fd2-616e-b803-c1af87aa927f",
+    "title": "Конфітюр «Верес» вишневий с/б",
+    "weighted": false,
+    "pack": {
+     "amount": 620.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823084601033",
+    "title": "Конфітюр Верес вишневий 370г",
+    "weighted": false,
+    "pack": {
+     "amount": 370.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "cherry_tomato": {
   "silpo": [
    {
@@ -2441,6 +3640,17 @@
     }
    }
   ]
+ },
+ "chestnuts": {
+  "silpo": [
+   {
+    "ref": "1edb23da-9169-647c-b94c-07ce722ae755",
+    "title": "Каштан їстівний",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
  },
  "chia_seeds": {
   "silpo": [
@@ -2568,6 +3778,39 @@
    }
   ]
  },
+ "chicken_gizzards": {
+  "silpo": [
+   {
+    "ref": "1ed07609-5669-6e3c-9593-dd63763181f9",
+    "title": "Шлунки курячі охолоджені",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1eefc424-7a2b-6ba8-99b0-634fdfc48ca0",
+    "title": "Шлунки курячі охолоджені в/у",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02860917000000",
+    "title": "Шлунок курячий охолоджений",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "04820209003031",
+    "title": "Шлунок курячий Наша Ряба охолоджений 700г",
+    "weighted": false,
+    "pack": {
+     "amount": 700.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "chicken_hearts": {
   "silpo": [
    {
@@ -2629,6 +3872,45 @@
     "weighted": false,
     "pack": {
      "amount": 700.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "chicken_sausages": {
+  "silpo": [
+   {
+    "ref": "1f06298b-a99d-6f52-82d2-475d7c8b5ab9",
+    "title": "Сосиски М'ясна Гільдія Міні з курячим філе в/ґ",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb8b2b-5491-624e-b523-350473e48254",
+    "title": "Сосиски курячі Ле Кур вищого сорту «Савин Продукт»",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823064807721",
+    "title": "Сосиски Бащинський Міні з курячим філе без оболонки перший сорт 350г",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04823079007383",
+    "title": "Сосиски М'ясна Гільдія з курячим філе вищий сорт 300г",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
      "unit": "g"
     }
    }
@@ -2718,6 +4000,48 @@
    }
   ]
  },
+ "chickpea_flour": {
+  "silpo": [
+   {
+    "ref": "1edd97bc-29e0-6d0c-923b-136c83c9490b",
+    "title": "Борошно Сто пудів Нутове",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1eec60de-ae28-6bd8-926f-4b820e9e5d9a",
+    "title": "Борошно La Pasta Per Primi нутове",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820168882456",
+    "title": "Борошно нутове Сто Пудів 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820211664978",
+    "title": "Борошно La Pasta Per Primi нутове 800г",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "chickpeas_canned": {
   "silpo": [
    {
@@ -2750,6 +4074,10 @@
     }
    }
   ]
+ },
+ "chili_crisp": {
+  "silpo": [],
+  "novus": []
  },
  "chili_flakes": {
   "silpo": [
@@ -2811,6 +4139,38 @@
    }
   ]
  },
+ "chili_threads": {
+  "silpo": [],
+  "novus": []
+ },
+ "chipotle_ground": {
+  "silpo": [
+   {
+    "ref": "1edb8b25-7d95-60ba-a895-5dc9096b392c",
+    "title": "Перець Badia «Чіпотле» мелений",
+    "weighted": false,
+    "pack": {
+     "amount": 70.8,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "chipotle_sauce": {
+  "silpo": [
+   {
+    "ref": "1ef868de-87eb-68e4-805e-07a0d6221560",
+    "title": "Соус La Morena Сальса Чіпотле",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "chives": {
   "silpo": [
    {
@@ -2868,6 +4228,69 @@
     "weighted": false,
     "pack": {
      "amount": 350.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "chocolate_sticks": {
+  "silpo": [
+   {
+    "ref": "1f11191f-9112-6724-91bd-bd7d0ba234cf",
+    "title": "Палички-соломка Pocky у шоколадній глазурі",
+    "weighted": false,
+    "pack": {
+     "amount": 58.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "07622201137632",
+    "title": "Печиво-палички Milka Lila Sticks в молочному шоколаді 112г",
+    "weighted": false,
+    "pack": {
+     "amount": 112.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "chorizo": {
+  "silpo": [
+   {
+    "ref": "1efbc063-6b72-6ea8-ad64-7bdcf86ee748",
+    "title": "Ковбаса 7Hermanos Чорізо Вела екстра с/в",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1efbcc6e-ee2d-661a-bcb1-7bdcf86ee748",
+    "title": "Ковбаса 7 Hermanos Чорізо Вела екстра с/в нарізка",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08428204006222",
+    "title": "Ковбаса Espana Чорізо Екстра Тако нарізана сиров'ялена 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "08437009729151",
+    "title": "Ковбаса Porxas Чорізо Екстра нарізана сиров'ялена 70г",
+    "weighted": false,
+    "pack": {
+     "amount": 70.0,
      "unit": "g"
     }
    }
@@ -3107,6 +4530,62 @@
    }
   ]
  },
+ "coconut_condensed_milk": {
+  "silpo": [
+   {
+    "ref": "1edb8d39-aaf8-6d8e-a645-53e7405e8b7a",
+    "title": "Молоко згущене Bi food кокосове на тростинному цукрі",
+    "weighted": false,
+    "pack": {
+     "amount": 240.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1efb297a-f860-6750-9dd1-7bdcf86ee748",
+    "title": "Молоко згущене Bi food кокосове на тростинному цукрі, д/п",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "coconut_cream": {
+  "silpo": [
+   {
+    "ref": "1ed07632-a15b-6566-a321-dd63763181f9",
+    "title": "Вершки кокосові Kara натуральні пастеризовані 24%",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ed07632-a15b-6124-8095-dd63763181f9",
+    "title": "Вершки кокосові Kara натуральні пастеризовані 24%",
+    "weighted": false,
+    "pack": {
+     "amount": 65.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08886303210061",
+    "title": "Вершки Kara кокосові ультрапастеризовані 24% 65мл",
+    "weighted": false,
+    "pack": {
+     "amount": 65.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
  "coconut_flakes": {
   "silpo": [
    {
@@ -3149,6 +4628,63 @@
    }
   ]
  },
+ "coconut_flour": {
+  "silpo": [
+   {
+    "ref": "1eec15cb-3879-6d96-b0a8-2155cb7c5b18",
+    "title": "Борошно Кухар'Є кокосове",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ee1b83b-986d-65f6-8617-fb2cb7302fda",
+    "title": "Борошно Сто пудів кокосове",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04779048081772",
+    "title": "Борошно кокосове Bionaturalis органічне 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "coconut_granola": {
+  "silpo": [
+   {
+    "ref": "1ed0764d-9097-675a-b42b-dd63763181f9",
+    "title": "Сніданок готовий Good morning Granola з кокосом",
+    "weighted": false,
+    "pack": {
+     "amount": 330.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820192180023",
+    "title": "Гранола Good Morning, Granola з кокосом 330г",
+    "weighted": false,
+    "pack": {
+     "amount": 330.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "coconut_milk": {
   "silpo": [
    {
@@ -3186,6 +4722,228 @@
     "weighted": false,
     "pack": {
      "amount": 150.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
+ "coconut_milk_powder": {
+  "silpo": [
+   {
+    "ref": "1edb8d3b-98a7-699e-b97e-53e7405e8b7a",
+    "title": "Молоко Bi food кокосове сухе",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "coconut_oil": {
+  "silpo": [
+   {
+    "ref": "1ed07676-0cb4-6568-b69c-bd2f9278424b",
+    "title": "Олія Katana кокосова",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ed076a3-85b4-66de-ad39-45a3653d0710",
+    "title": "Олія кокосова Vera рафінована",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "03330724201238",
+    "title": "Олія кокосова Naturalisimo очищена 500мл",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "04771544222758",
+    "title": "Олія кокосова Amrita органічна 200мл",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
+ "coconut_sugar": {
+  "silpo": [
+   {
+    "ref": "1edb8e04-fa98-6e22-b6e5-53e7405e8b7a",
+    "title": "Цукор Сто пудів кокосовий",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0767a-7538-6932-b6bb-c1af87aa927f",
+    "title": "Цукор Dragon Superfoods кокосовий",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "cod_fillet": {
+  "silpo": [
+   {
+    "ref": "1ed0769f-d0d9-64b0-99db-5f148feebb3f",
+    "title": "Тріска Norven, філе, порції без шкіри, свіжоморожена",
+    "weighted": false,
+    "pack": {
+     "amount": 450.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed075ec-2c80-60fc-aba6-dd63763181f9",
+    "title": "Тріска філе без шкіри свіжоморожена",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "cod_roe": {
+  "silpo": [
+   {
+    "ref": "1edca56a-ef13-60ec-966a-5b8f2e9d16ca",
+    "title": "Ікра тріски пробійна солона",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1f155675-22ce-635c-8c55-a9669df0d207",
+    "title": "Ікра тріски Нерест Premium пробійна солона",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820154372817",
+    "title": "Ікра тріски Нерест пробійна солена 300г",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820154370738",
+    "title": "Ікра тріски Камчадал пробійна солена 180г",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "cognac": {
+  "silpo": [
+   {
+    "ref": "1ee16c90-c32c-6fcc-bba6-43a5aa81a0db",
+    "title": "Коньяк Koblevo 3 зірки",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1edb008f-bc0e-60ce-9602-dd4c0c66fb27",
+    "title": "Коньяк Vardiani 3 зірки",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820182220159",
+    "title": "Бренді Коблево 40% 0,5л",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "04630017431083",
+    "title": "Бренді Tavria VSOP 5 років 40% 250мл",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
+ "cola": {
+  "silpo": [
+   {
+    "ref": "1ed075d5-7d7a-64b0-a95f-dd63763181f9",
+    "title": "Напій Coca-Cola",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ee01908-6498-6498-9ac3-3ba125f7a555",
+    "title": "Напій Coca-Cola безалкогольний сильногазований",
+    "weighted": false,
+    "pack": {
+     "amount": 1750.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "00000054491472",
+    "title": "Напій газований Coca-Cola 0,5л",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "05449000028921",
+    "title": "Напій газований Coca-Cola 1,25л",
+    "weighted": false,
+    "pack": {
+     "amount": 1250.0,
      "unit": "ml"
     }
    }
@@ -3270,6 +5028,90 @@
    }
   ]
  },
+ "corn_flakes": {
+  "silpo": [
+   {
+    "ref": "1ed07693-3e3f-62b4-95e3-bd2f9278424b",
+    "title": "Пластівці Start кукурудзяні натуральні",
+    "weighted": false,
+    "pack": {
+     "amount": 700.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f0e1256-0ad7-6632-a004-5ffc97522d4c",
+    "title": "Пластівці Sante кукурудзяні",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820008125040",
+    "title": "Сніданок сухий Start! Пластівці кукурудзяні 270г",
+    "weighted": false,
+    "pack": {
+     "amount": 270.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820237690258",
+    "title": "Сніданок сухий Start! Пластівці кукурудзяні 700г",
+    "weighted": false,
+    "pack": {
+     "amount": 700.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "corn_flour": {
+  "silpo": [
+   {
+    "ref": "1ed07685-ba32-6640-bdb8-c1af87aa927f",
+    "title": "Борошно «Сквирянка» кукурудзяне п/п",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed54610-4a42-61e6-844c-714ad45b7c92",
+    "title": "Борошно «Хуторок» кукурудзяне",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820256770092",
+    "title": "Борошно Наш агро млин кукурудзяне 1кг",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820211663605",
+    "title": "Борошно кукурудзяне Хуторок 900г",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "corn_grits": {
   "silpo": [
    {
@@ -3345,6 +5187,10 @@
    }
   ]
  },
+ "corn_syrup": {
+  "silpo": [],
+  "novus": []
+ },
  "corn_tortilla": {
   "silpo": [
    {
@@ -3353,6 +5199,20 @@
     "weighted": false,
     "pack": {
      "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "corned_beef": {
+  "silpo": [
+   {
+    "ref": "1ed0fce0-41b8-60de-8210-a19c505128f4",
+    "title": "М'ясо Bill Beff яловичина консервована",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
      "unit": "g"
     }
    }
@@ -3466,6 +5326,66 @@
   ],
   "novus": []
  },
+ "crab_sticks": {
+  "silpo": [
+   {
+    "ref": "1ed07664-6f37-6260-bd43-c1af87aa927f",
+    "title": "Палички крабові Aqua Vita охолоджені",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0761a-549f-6dc0-bde7-dd63763181f9",
+    "title": "Палички крабові «Премія»® продукт із сурімі охолоджені",
+    "weighted": false,
+    "pack": {
+     "amount": 240.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed075f3-43de-6c2e-881f-dd63763181f9",
+    "title": "Крабові палички «Премія»® продукт з сурімі заморожені",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04770190162173",
+    "title": "Крабові палички Адміральські охолоджені 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04770190162227",
+    "title": "Крабові палички Адміральські охолоджені 400г",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04770190036498",
+    "title": "Крабові палички Vici з сурімі заморожені 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "cranberry_jam": {
   "silpo": [
    {
@@ -3479,6 +5399,36 @@
    }
   ],
   "novus": []
+ },
+ "crayfish": {
+  "silpo": [
+   {
+    "ref": "1edbc59f-6c1e-6bce-b904-1df4cd9fb6b0",
+    "title": "Раки варено-морожені",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ee17925-68ad-6546-86e3-43a5aa81a0db",
+    "title": "Раки Delfin варено-морожені 40/60",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820257270447",
+    "title": "Раки C&C Seafood цілі в панцирі варені в розсолі 800г",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
+     "unit": "g"
+    }
+   }
+  ]
  },
  "cream_20": {
   "silpo": [
@@ -3615,6 +5565,33 @@
    }
   ]
  },
+ "creamy_horseradish": {
+  "silpo": [
+   {
+    "ref": "1ed075db-aae5-6368-8f12-dd63763181f9",
+    "title": "Хрін Kuhne вершковий",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed80d26-8cf7-6fd8-b87e-b9cd44c23055",
+    "title": "Хрін Develey вершковий",
+    "weighted": false,
+    "pack": {
+     "amount": 170.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "creme_fraiche": {
+  "silpo": [],
+  "novus": []
+ },
  "croissant": {
   "silpo": [
    {
@@ -3719,6 +5696,50 @@
    }
   ]
  },
+ "cured_duck_fillet": {
+  "silpo": [
+   {
+    "ref": "1ee4b72b-921b-6b8e-8530-1b686b09beee",
+    "title": "Філе Лавка традицій Димні Традиції качине сиров'ялене",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "currant_jam": {
+  "silpo": [
+   {
+    "ref": "1edb035e-18bc-684a-9097-9f7fd78fecf4",
+    "title": "Варення «Премія»® зі смородини",
+    "weighted": false,
+    "pack": {
+     "amount": 380.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edaf6d0-6027-65bc-9a37-095b0f6e1b62",
+    "title": "Варення Лавка традицій з чорної смородини",
+    "weighted": false,
+    "pack": {
+     "amount": 330.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820210084036",
+    "title": "Варення Novus Смородина 380г",
+    "weighted": false,
+    "pack": {
+     "amount": 380.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "curry_powder": {
   "silpo": [
    {
@@ -3761,6 +5782,28 @@
    }
   ]
  },
+ "daikon": {
+  "silpo": [
+   {
+    "ref": "1ed075e8-1eb6-64a2-9fb9-dd63763181f9",
+    "title": "Редька Дайкон",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02856621000000",
+    "title": "Редька біла Дайкон",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
+ "danmuji": {
+  "silpo": [],
+  "novus": []
+ },
  "dark_chocolate": {
   "silpo": [
    {
@@ -3802,6 +5845,29 @@
     }
    }
   ]
+ },
+ "date_syrup": {
+  "silpo": [
+   {
+    "ref": "1ed07677-bf2d-67b6-b3bb-9d79fa2ad32f",
+    "title": "Сироп Country Life фініковий",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1edb8cc7-fd54-63de-82ec-39a07e017bad",
+    "title": "Сироп фініковий Alnatura органічний",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": []
  },
  "dates": {
   "silpo": [
@@ -3947,6 +6013,42 @@
    }
   ]
  },
+ "doenjang": {
+  "silpo": [],
+  "novus": []
+ },
+ "dogwood_sauce": {
+  "silpo": [
+   {
+    "ref": "1edbc572-d508-69d2-bc90-2b5c1b462f51",
+    "title": "Соус Famberry Кизиловий Лагідний",
+    "weighted": false,
+    "pack": {
+     "amount": 220.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edbc572-d508-6540-a04c-2b5c1b462f51",
+    "title": "Соус Famberry Кизиловий Преміум",
+    "weighted": false,
+    "pack": {
+     "amount": 220.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ef61a37-b577-6fd0-848f-4de54a3b7f6d",
+    "title": "Соус Лавка традицій Famberry Кизилова сальса",
+    "weighted": false,
+    "pack": {
+     "amount": 230.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "dorado": {
   "silpo": [
    {
@@ -4008,6 +6110,84 @@
   ],
   "novus": []
  },
+ "dried_apricots": {
+  "silpo": [
+   {
+    "ref": "1ed0768f-c54e-627c-b229-bd2f9278424b",
+    "title": "Курага Eat4fit «Джамбо» д/п",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ee6a171-aae1-6dc6-a8fa-c7331fa6c38e",
+    "title": "Курага «Премія»® Джамбо",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02884212000000",
+    "title": "Курага Узбецька",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "04820024154260",
+    "title": "Курага Novus 175г",
+    "weighted": false,
+    "pack": {
+     "amount": 175.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "dried_cranberry": {
+  "silpo": [
+   {
+    "ref": "1ed90443-4089-60ec-86d3-d96f5611380d",
+    "title": "Журавлина Winway сушена",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed4e22f-2806-6a86-820a-e74aee9384e5",
+    "title": "Журавлина Roni сушена",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02876302000000",
+    "title": "Журавлина сушена",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "04820024154277",
+    "title": "Журавлина Novus сушена підсолоджена 175г",
+    "weighted": false,
+    "pack": {
+     "amount": 175.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "dried_figs": {
   "silpo": [
    {
@@ -4034,6 +6214,20 @@
     "pack": null
    }
   ]
+ },
+ "dried_morels": {
+  "silpo": [
+   {
+    "ref": "1f0a5a7b-b369-61f6-afb1-d30c56e2ad80",
+    "title": "Гриби Borde Зморшки їстівні сушені",
+    "weighted": false,
+    "pack": {
+     "amount": 15.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "dried_oregano": {
   "silpo": [
@@ -4087,6 +6281,62 @@
    }
   ],
   "novus": []
+ },
+ "dried_polish_mushrooms": {
+  "silpo": [
+   {
+    "ref": "1ed07684-a46f-61ba-bee5-eb0bb71c4ffc",
+    "title": "Гриби «Дари Гуцульщини» польські сушені",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "dried_porcini": {
+  "silpo": [
+   {
+    "ref": "1ed075e9-9706-6406-8a38-dd63763181f9",
+    "title": "Гриби Шарм білі сушені",
+    "weighted": false,
+    "pack": {
+     "amount": 40.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed075f8-5bc7-66f6-a988-dd63763181f9",
+    "title": "Гриби білі «Шарм» сушені",
+    "weighted": false,
+    "pack": {
+     "amount": 15.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820012791729",
+    "title": "Гриби Боровичок білі сушені 50г",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820012791422",
+    "title": "Гриби Шарм Білі сушені 40г",
+    "weighted": false,
+    "pack": {
+     "amount": 40.0,
+     "unit": "g"
+    }
+   }
+  ]
  },
  "dry_adjika": {
   "silpo": [
@@ -4207,6 +6457,23 @@
   ],
   "novus": []
  },
+ "duck_liver": {
+  "silpo": [
+   {
+    "ref": "1efcfade-5e13-6f9e-b0f2-330345a6c2d0",
+    "title": "Качина печінка заморожена",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed0765c-12a9-688e-9d6c-dd63763181f9",
+    "title": "Печінка качина «Смачне каченя» охолоджена",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
  "edam": {
   "silpo": [
    {
@@ -4265,6 +6532,20 @@
     }
    }
   ]
+ },
+ "edible_flowers": {
+  "silpo": [
+   {
+    "ref": "1ed0761f-64fc-61be-9b7b-dd63763181f9",
+    "title": "Квіти їстівні",
+    "weighted": false,
+    "pack": {
+     "amount": 10,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "egg": {
   "silpo": [
@@ -4341,6 +6622,20 @@
    }
   ]
  },
+ "egg_protein": {
+  "silpo": [
+   {
+    "ref": "1f069ab5-2367-6410-abb3-1bad4c971d3d",
+    "title": "Альбумін Cookit",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "eggplant": {
   "silpo": [
    {
@@ -4356,6 +6651,48 @@
     "title": "Баклажан Україна",
     "weighted": true,
     "pack": null
+   }
+  ]
+ },
+ "elbow_macaroni": {
+  "silpo": [
+   {
+    "ref": "1edbd100-134a-63e2-a6e7-09e441c4ee6a",
+    "title": "Макарони Козацький млин Ріжки",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f105319-9f61-6752-9012-6981ca0a5406",
+    "title": "Вироби макаронні Ситий двір Ріжки",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820101713359",
+    "title": "Макаронні вироби Хуторок Ріжки 800г",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820191850408",
+    "title": "Макаронні вироби Тая Ріжки гладенькі 400г",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
    }
   ]
  },
@@ -4425,6 +6762,17 @@
    }
   ]
  },
+ "fennel": {
+  "silpo": [
+   {
+    "ref": "1ed075ff-5646-6fa4-8ec8-dd63763181f9",
+    "title": "Фенхель",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
  "fennel_seeds": {
   "silpo": [
    {
@@ -4467,6 +6815,39 @@
     "weighted": false,
     "pack": {
      "amount": 150.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "fettuccine": {
+  "silpo": [
+   {
+    "ref": "1ed074ad-f168-61d4-b3ff-dd63763181f9",
+    "title": "Макаронні вироби Riscossa Феттучіне широкі №14",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07642-8ed0-6d32-a581-dd63763181f9",
+    "title": "Вироби макаронні Barilla «Фетучіне» з яйцем",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08001665701518",
+    "title": "Макаронні вироби Giovanni Rana фетучіні 250г",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
      "unit": "g"
     }
    }
@@ -4572,6 +6953,23 @@
   ],
   "novus": []
  },
+ "flank_steak": {
+  "silpo": [
+   {
+    "ref": "1ef49431-e299-6294-9a3f-b77172129efc",
+    "title": "Яловичий стейк Фланк охолоджений в/у",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1edb8dee-3871-6ac6-910c-53e7405e8b7a",
+    "title": "Яловичий стейк Глобино Фланк охолоджений",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
  "flax_seeds": {
   "silpo": [
    {
@@ -4631,6 +7029,155 @@
   ],
   "novus": []
  },
+ "food_coloring_red": {
+  "silpo": [],
+  "novus": []
+ },
+ "freeze_dried_raspberry": {
+  "silpo": [
+   {
+    "ref": "1edb030d-9293-60d4-9fc6-9f7fd78fecf4",
+    "title": "Малина «Лавка Традицій» Panfruit сублімована",
+    "weighted": false,
+    "pack": {
+     "amount": 20.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ee89b85-c0e2-623c-806e-f58b40446f64",
+    "title": "Малина Cookit сублімована ціла",
+    "weighted": false,
+    "pack": {
+     "amount": 40.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "freeze_dried_strawberry": {
+  "silpo": [
+   {
+    "ref": "1edb030d-9293-64ee-a8d6-9f7fd78fecf4",
+    "title": "Полуниця «Лавка Традицій» Panfruit сублімована",
+    "weighted": false,
+    "pack": {
+     "amount": 15.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "french_fries_frozen": {
+  "silpo": [
+   {
+    "ref": "1f07318b-eb3a-604c-a8c8-5f52b935ad2e",
+    "title": "Картопля Aviko Оригінальна фрі швидкозаморожена",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0767e-2e0e-6a62-8842-c1af87aa927f",
+    "title": "Картопля фрі Wernsing",
+    "weighted": false,
+    "pack": {
+     "amount": 750.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edaedc5-399f-6f8e-8bd1-e17a9d63ee24",
+    "title": "Картопля Фрі «Премія»® заморожена",
+    "weighted": false,
+    "pack": {
+     "amount": 750.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08710438033083",
+    "title": "Картопля фрі McCain Original 1-2-3 Fries 750г",
+    "weighted": false,
+    "pack": {
+     "amount": 750.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04770190067935",
+    "title": "Картопля фрі VICI 9/9мм 750г",
+    "weighted": false,
+    "pack": {
+     "amount": 750.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "fresh_oregano": {
+  "silpo": [
+   {
+    "ref": "1edafcb6-5c74-61a4-ae66-5f8022da6d6b",
+    "title": "Трави пряні орегано в горщику",
+    "weighted": false,
+    "pack": {
+     "amount": 30,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820244740137",
+    "title": "Орегано в горщику 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 30,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "fresh_thyme": {
+  "silpo": [
+   {
+    "ref": "1ed1d598-5ed6-66f2-a818-470d31b9e7da",
+    "title": "Тим'ян",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1eed0439-34af-6294-9378-97b9aa8ee5ca",
+    "title": "Тим'ян Зелена Країна",
+    "weighted": false,
+    "pack": {
+     "amount": 20.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820252580176",
+    "title": "Тим'ян 50г",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "fried_onion": {
   "silpo": [
    {
@@ -4663,6 +7210,29 @@
     }
    }
   ]
+ },
+ "frisee": {
+  "silpo": [
+   {
+    "ref": "1edbc412-4415-63fa-8d46-696912d125c0",
+    "title": "Салат фрізе",
+    "weighted": false,
+    "pack": {
+     "amount": 300,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f09b359-f610-62bc-9fac-bb75c8f4e950",
+    "title": "Салат Eragro Фрізе свіжий",
+    "weighted": false,
+    "pack": {
+     "amount": 300,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "frozen_berries": {
   "silpo": [
@@ -4862,6 +7432,39 @@
    }
   ]
  },
+ "funchoza": {
+  "silpo": [
+   {
+    "ref": "1f1a330e-0bc5-6136-b4d6-79ec81ffd756",
+    "title": "Вермішель Akura Фунчоза бобова",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820178461887",
+    "title": "Макаронні вироби Royal Tiger Фунчоза вермішель бобова 100г",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820178461917",
+    "title": "Макаронні вироби Royal Tiger Фунчоза вермішель бобова 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "furikake": {
   "silpo": [
    {
@@ -4876,6 +7479,61 @@
   ],
   "novus": []
  },
+ "fusilli": {
+  "silpo": [
+   {
+    "ref": "1ed075d5-8396-6240-9a49-dd63763181f9",
+    "title": "Макаронні вироби Barilla Фузіллі",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed076a7-7cb9-6062-8729-45a3653d0710",
+    "title": "Вироби макаронні Terra di Grano «Фузілі»",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0766d-2888-6d56-8864-c1af87aa927f",
+    "title": "Вироби макаронні Barilla «Фузіллі» №98",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08008857300481",
+    "title": "Макаронні вироби Pasta Reggia Фузіллі №48 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "08008857310480",
+    "title": "Макаронні вироби Pasta Reggia Фузіллі №48 1кг",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "fuzhu": {
+  "silpo": [],
+  "novus": []
+ },
  "galangal": {
   "silpo": [
    {
@@ -4883,6 +7541,20 @@
     "title": "Корінь Галанга",
     "weighted": true,
     "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "garam_masala": {
+  "silpo": [
+   {
+    "ref": "1eefd0c4-32eb-608e-a359-418e20153041",
+    "title": "Суміш спецій Банка спецій Гарам Масала",
+    "weighted": false,
+    "pack": {
+     "amount": 110.0,
+     "unit": "g"
+    }
    }
   ],
   "novus": []
@@ -4913,6 +7585,62 @@
     "pack": null
    }
   ]
+ },
+ "garlic_granulated": {
+  "silpo": [
+   {
+    "ref": "1f12c89d-7d59-6afa-9412-1fa2d5b84021",
+    "title": "Часник «Повна Чаша»® сушений гранульований",
+    "weighted": false,
+    "pack": {
+     "amount": 20.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07648-2358-659a-8b6d-dd63763181f9",
+    "title": "Часник «Любисток» гранульований",
+    "weighted": false,
+    "pack": {
+     "amount": 15.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823077642975",
+    "title": "Часник Мрія сушений гранульований 15г",
+    "weighted": false,
+    "pack": {
+     "amount": 15.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820076015465",
+    "title": "Часник Любисток сушений гранульований 15г",
+    "weighted": false,
+    "pack": {
+     "amount": 15.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "garlic_sausages": {
+  "silpo": [
+   {
+    "ref": "1ed07676-91c2-6ec6-8e1b-c1af87aa927f",
+    "title": "Ковбаски-гриль «Глобино» «Часникові» охолоджені",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "gelatin": {
   "silpo": [
@@ -4979,6 +7707,57 @@
   ],
   "novus": []
  },
+ "ghee": {
+  "silpo": [
+   {
+    "ref": "1ee42009-7836-6c1e-9c03-f5e182f74aa3",
+    "title": "Масло топлене Лавка Традицій Чистий Смак Гхі",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ee9dfbe-82e4-65b0-85a2-3df41d9266c6",
+    "title": "Масло топлене Лавка традицій Чистий Смак Гхі",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ee89b83-c53b-6a42-9d63-f58b40446f64",
+    "title": "Масло топлене Лавка Традицій Старий Порицьк ГХІ 99%",
+    "weighted": false,
+    "pack": {
+     "amount": 160.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820262330013",
+    "title": "Масло ГХІ Чистий Смак 100мл",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "04820262330020",
+    "title": "Масло ГХІ Чистий Смак 300мл",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
  "ginger": {
   "silpo": [
    {
@@ -5021,6 +7800,10 @@
    }
   ]
  },
+ "glucose_syrup": {
+  "silpo": [],
+  "novus": []
+ },
  "gluten_free_flour": {
   "silpo": [
    {
@@ -5034,6 +7817,72 @@
    }
   ],
   "novus": []
+ },
+ "glutinous_rice_flour": {
+  "silpo": [
+   {
+    "ref": "1ee3c816-7a66-644e-a275-57aa32a17f1d",
+    "title": "Борошно Yoshi рисове з клейкого рису для моті та десертів",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08850521151215",
+    "title": "Борошно рисове Farmer Mochi 400г",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "gnocchi": {
+  "silpo": [
+   {
+    "ref": "1efbf29f-8199-6312-9aef-4b2180c5d2c5",
+    "title": "Ньокі Pasta Zara картопляні",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ee057d8-2c24-6c74-8948-3ba125f7a555",
+    "title": "Ньоки картопляні Delverde",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08008857601069",
+    "title": "Макаронні вироби Reggia Ньокі картопляні 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "00000080608349",
+    "title": "Ньокі Giovanni Rana картопляні 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ]
  },
  "goat_cheese": {
   "silpo": [
@@ -5067,6 +7916,37 @@
     }
    }
   ]
+ },
+ "goby": {
+  "silpo": [
+   {
+    "ref": "1edb79b5-57fd-677a-96fe-551b8c9653c8",
+    "title": "Бичок охолоджений",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed07662-c028-66b2-a334-dd63763181f9",
+    "title": "Бичок патраний охолоджений",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "gochujang": {
+  "silpo": [
+   {
+    "ref": "1f169d53-a6a5-61d2-989f-afbb9765dc98",
+    "title": "Паста Sempio Гочуджан гостра з перцю",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "gorgonzola": {
   "silpo": [
@@ -5197,6 +8077,87 @@
    }
   ]
  },
+ "granola": {
+  "silpo": [
+   {
+    "ref": "1eee01a6-cfa7-6736-810f-2b29c69241f0",
+    "title": "Гранола AXA хрустка з полуницею",
+    "weighted": false,
+    "pack": {
+     "amount": 330.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb8816-c6b5-60cc-b087-5dc9096b392c",
+    "title": "Мюслі Гранола горіхова",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820237692542",
+    "title": "Гранола AXA хрустка з полуницею 330г",
+    "weighted": false,
+    "pack": {
+     "amount": 330.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "08595564510536",
+    "title": "Гранола Bona Vita з фруктами 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "grape_juice": {
+  "silpo": [
+   {
+    "ref": "1ed07690-97df-6506-91f8-eb0bb71c4ffc",
+    "title": "Сік Hafner червоний виноград",
+    "weighted": false,
+    "pack": {
+     "amount": 750.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ee7a9fb-b56b-6d80-bf15-f93271133b65",
+    "title": "Сік Лавка традицій ФГ Гроно Галичини виноградний червоний неосвітлений",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ee7a9fb-ab1d-6acc-82dc-4fe3a5ae14dc",
+    "title": "Сік Лавка традицій ФГ Гроно Галичини виноградн червоний неосвітлений",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08410261071008",
+    "title": "Сік Don Simon Червоний виноград 1л",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
  "grape_leaves": {
   "silpo": [
    {
@@ -5219,6 +8180,24 @@
    }
   ],
   "novus": []
+ },
+ "grapefruit": {
+  "silpo": [
+   {
+    "ref": "1ed075db-b30e-6116-836a-dd63763181f9",
+    "title": "Грейпфрут",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02855683000000",
+    "title": "Грейпфрут рожевий",
+    "weighted": true,
+    "pack": null
+   }
+  ]
  },
  "grapes": {
   "silpo": [
@@ -5339,6 +8318,10 @@
    }
   ]
  },
+ "green_adjika": {
+  "silpo": [],
+  "novus": []
+ },
  "green_beans": {
   "silpo": [
    {
@@ -5416,6 +8399,62 @@
     }
    }
   ]
+ },
+ "green_buckwheat_flour": {
+  "silpo": [
+   {
+    "ref": "1eebb0c5-0cee-62fa-9888-4bdadddb33e8",
+    "title": "Борошно Екород Organic з зеленої гречки",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820153600577",
+    "title": "Борошно Екород Зеленої гречки органічне 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "green_curry_paste": {
+  "silpo": [
+   {
+    "ref": "1eee7134-fa71-6cd4-b8ee-8f7dfdcb7b0c",
+    "title": "Паста Aroy-D Каррі зелена",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f067503-c034-6e82-90d3-156ebb43c248",
+    "title": "Паста Blue Elephant каррі зелена",
+    "weighted": false,
+    "pack": {
+     "amount": 70.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb25e0-5345-66b6-abee-e990029622e2",
+    "title": "Паста Real Thai для приготування зеленого карі",
+    "weighted": false,
+    "pack": {
+     "amount": 227.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "green_lentils": {
   "silpo": [
@@ -5656,6 +8695,39 @@
   ],
   "novus": []
  },
+ "grill_sauce": {
+  "silpo": [
+   {
+    "ref": "1ed07666-eaee-6a82-b0f1-c1af87aa927f",
+    "title": "Соуc Kuhne Мade For Meat «Гриль» паприка",
+    "weighted": false,
+    "pack": {
+     "amount": 375.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823097408797",
+    "title": "Соус Щедро Гриль 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "00000040122267",
+    "title": "Соус Kuhne Made For Meat Гриль Паприка 375мл",
+    "weighted": false,
+    "pack": {
+     "amount": 375.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
  "grill_sausages": {
   "silpo": [
    {
@@ -5683,6 +8755,48 @@
     "title": "Ковбаски Мюнхенські для гриля охолоджені",
     "weighted": true,
     "pack": null
+   }
+  ]
+ },
+ "grissini": {
+  "silpo": [
+   {
+    "ref": "1f095a29-881d-60f4-89a1-0bd8a5765fb2",
+    "title": "Гріссіні Babene міні класичні",
+    "weighted": false,
+    "pack": {
+     "amount": 125.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f0c54aa-9ad7-67c0-8985-ddc35c8d1a9a",
+    "title": "Гріссіні Buon Piemontesi класичні",
+    "weighted": false,
+    "pack": {
+     "amount": 120.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08009280002720",
+    "title": "Палички хлібні Valledoro Гріссіні Rustici 100г",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "08009280001570",
+    "title": "Палички хлібні Valledoro Гріссіні Saltelli 100г",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
    }
   ]
  },
@@ -5728,6 +8842,48 @@
    }
   ]
  },
+ "ground_coriander": {
+  "silpo": [
+   {
+    "ref": "1efa21ac-6de6-6e0c-b127-c13d762e18d5",
+    "title": "Коріандр PREMIA мелений",
+    "weighted": false,
+    "pack": {
+     "amount": 20.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed075d7-7d03-66ec-bb98-dd63763181f9",
+    "title": "Коріандр Eko мелений",
+    "weighted": false,
+    "pack": {
+     "amount": 20.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820001170658",
+    "title": "Коріандр Еко мелений 20г",
+    "weighted": false,
+    "pack": {
+     "amount": 20.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820005021116",
+    "title": "Коріандр Мрія мелений 20г",
+    "weighted": false,
+    "pack": {
+     "amount": 20.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "gruyere": {
   "silpo": [
    {
@@ -5765,6 +8921,30 @@
   ],
   "novus": []
  },
+ "hake_fillet": {
+  "silpo": [
+   {
+    "ref": "1ed075e8-1eb3-6aa4-803c-dd63763181f9",
+    "title": "Хек свіжоморожений, філе без глазурі",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed075d8-d3ea-6c0c-8a05-dd63763181f9",
+    "title": "Хек свіжоморожений в глазурі, філе",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02850963000000",
+    "title": "Хек філе свіжоморожений",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "halibut_fillet": {
   "silpo": [
    {
@@ -5781,6 +8961,30 @@
    }
   ],
   "novus": []
+ },
+ "halloumi": {
+  "silpo": [
+   {
+    "ref": "1edafd96-3819-63be-a11e-c9a9c5f7a57c",
+    "title": "Сир Лавка Традицій Чізарня Халумі",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed0766f-198d-6f7a-8cf3-eb0bb71c4ffc",
+    "title": "Сир халумі Nashe для грилю, 50%",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02881933000000",
+    "title": "Сир Европейська Сироварня Халумі вершковий для смаження 55%",
+    "weighted": true,
+    "pack": null
+   }
+  ]
  },
  "halva": {
   "silpo": [
@@ -5856,6 +9060,17 @@
     "pack": null
    }
   ]
+ },
+ "hamsa": {
+  "silpo": [
+   {
+    "ref": "1edb79bb-94df-6a8e-bb22-b7c753e6a508",
+    "title": "Хамса",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
  },
  "hard_cheese": {
   "silpo": [
@@ -6022,6 +9237,39 @@
   ],
   "novus": []
  },
+ "hoisin_sauce": {
+  "silpo": [
+   {
+    "ref": "1edb8311-cec5-641a-bd2c-33853681da2c",
+    "title": "Соус House of Asia Хойсін",
+    "weighted": false,
+    "pack": {
+     "amount": 240.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed21e6a-4c16-65d8-afd9-ef904fa4ce13",
+    "title": "Соус Asia Kitchen хойсін",
+    "weighted": false,
+    "pack": {
+     "amount": 230.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "00078895700022",
+    "title": "Соус Lee Kum Kee Hoisin Sauce 397г",
+    "weighted": false,
+    "pack": {
+     "amount": 397.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "homemade_sausage": {
   "silpo": [
    {
@@ -6049,6 +9297,39 @@
     "title": "Ковбаса Глобино Козацька По-домашньому смажена вищий сорт",
     "weighted": true,
     "pack": null
+   }
+  ]
+ },
+ "hondashi": {
+  "silpo": [
+   {
+    "ref": "1ed0761c-cb21-6e9c-9c1e-dd63763181f9",
+    "title": "Бульйон Katana хондаші рибний в гранулах",
+    "weighted": false,
+    "pack": {
+     "amount": 30.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed4bc2e-b771-6260-bdbf-e74aee9384e5",
+    "title": "Приправа Akura «Рибний бульйон Хондаші»",
+    "weighted": false,
+    "pack": {
+     "amount": 10.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820178463294",
+    "title": "Бульйон Akura Хондаші рибний 10г",
+    "weighted": false,
+    "pack": {
+     "amount": 10.0,
+     "unit": "g"
+    }
    }
   ]
  },
@@ -6093,6 +9374,17 @@
     }
    }
   ]
+ },
+ "horse_mackerel": {
+  "silpo": [
+   {
+    "ref": "1ed075dc-f451-6f28-b8fe-dd63763181f9",
+    "title": "Ставрида свіжоморожена",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
  },
  "horseradish": {
   "silpo": [
@@ -6140,6 +9432,39 @@
     "weighted": false,
     "pack": {
      "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "hot_dog_bun": {
+  "silpo": [
+   {
+    "ref": "1edaeee5-1516-6e58-aeaa-e17a9d63ee24",
+    "title": "Булочка для хот-дога",
+    "weighted": false,
+    "pack": {
+     "amount": 80.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f15bb06-1738-66a0-8b12-bd953f0302e3",
+    "title": "Булочка Хлібо класична для французького хот-догу",
+    "weighted": false,
+    "pack": {
+     "amount": 120.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820208389792",
+    "title": "Булочки для французького хот-догу Good Bakers 2х60г",
+    "weighted": false,
+    "pack": {
+     "amount": 120,
      "unit": "g"
     }
    }
@@ -6211,6 +9536,42 @@
    }
   ]
  },
+ "hunter_sausages": {
+  "silpo": [
+   {
+    "ref": "1ed0766f-198b-690a-a5f9-eb0bb71c4ffc",
+    "title": "Ковбаса «Ятрань» «Мисливські ковбаски» н/к в/ґ",
+    "weighted": false,
+    "pack": {
+     "amount": 305.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edaed27-0f03-68b4-a1fc-998a0267f7e8",
+    "title": "Ковбаски «Гармаш» «Мисливські»",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823005801825",
+    "title": "Ковбаски Ятрань Мисливські напівкопчені вищий сорт 305г",
+    "weighted": false,
+    "pack": {
+     "amount": 305.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "novus02869212000000",
+    "title": "Ковбаски Алан Мисливські напівкопчені вищий сорт",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "ice_cream": {
   "silpo": [
    {
@@ -6274,6 +9635,14 @@
    }
   ]
  },
+ "imeruli_cheese": {
+  "silpo": [],
+  "novus": []
+ },
+ "inari_age": {
+  "silpo": [],
+  "novus": []
+ },
  "instant_coffee": {
   "silpo": [
    {
@@ -6311,6 +9680,52 @@
     "weighted": false,
     "pack": {
      "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "invert_syrup": {
+  "silpo": [],
+  "novus": []
+ },
+ "italian_herbs": {
+  "silpo": [
+   {
+    "ref": "1ed5f7a7-b5b5-6286-acfb-e94d6677599a",
+    "title": "Суміш спецій «Банка спецій» італійські трави",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07604-a6a2-6a20-835f-dd63763181f9",
+    "title": "Суміш прянощів «Мрія» «Італійські трави»",
+    "weighted": false,
+    "pack": {
+     "amount": 10.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820267270307",
+    "title": "Суміш спецій Банка Спецій Італійські трави 100г",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820068153687",
+    "title": "Суміш спецій Еко Італійські трави 10г",
+    "weighted": false,
+    "pack": {
+     "amount": 10.0,
      "unit": "g"
     }
    }
@@ -6372,6 +9787,72 @@
   ],
   "novus": []
  },
+ "jamon": {
+  "silpo": [
+   {
+    "ref": "1ed07664-6f35-6f64-ba93-c1af87aa927f",
+    "title": "Хамон Sierra Morena «Серано Бодега», нарізка",
+    "weighted": false,
+    "pack": {
+     "amount": 80.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f066875-80f5-6e0a-b7ef-1bad4c971d3d",
+    "title": "Хамон Sierra Morena Бодега Серрано нарізка",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08411034030000",
+    "title": "Хамон Casademont Серрано нарізаний 80г",
+    "weighted": false,
+    "pack": {
+     "amount": 80.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "08427546075736",
+    "title": "Хамон Campodulce Curados Серрано Курадо нарізаний 250г",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "japanese_mayo": {
+  "silpo": [
+   {
+    "ref": "1ef3f0d7-ae2b-6ba4-b160-6f660dae0316",
+    "title": "Майонез Kewpie 74%",
+    "weighted": false,
+    "pack": {
+     "amount": 355.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823097415733",
+    "title": "Майонез Щедро Японський на яєчних жовтках 74% 190г",
+    "weighted": false,
+    "pack": {
+     "amount": 190.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "jasmine_rice": {
   "silpo": [
    {
@@ -6423,6 +9904,62 @@
    }
   ]
  },
+ "jelly_mix": {
+  "silpo": [
+   {
+    "ref": "1ef550d6-173b-6ab8-90f6-b12fba711d88",
+    "title": "Желе Dr.Oetker Galaretka зі смаком апельсина",
+    "weighted": false,
+    "pack": {
+     "amount": 72.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ef4a0d3-2b72-6dc8-a229-a9c44e6b1e0c",
+    "title": "Желе Dr.Oetker Galaretka зі смаком лісових ягід",
+    "weighted": false,
+    "pack": {
+     "amount": 72.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "05900437027906",
+    "title": "Желе Dr.Oetker Galaretka зі смаком апельсина 72г",
+    "weighted": false,
+    "pack": {
+     "amount": 72.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "05900437027944",
+    "title": "Желе Dr.Oetker Galaretka зі смаком лісових ягід 72г",
+    "weighted": false,
+    "pack": {
+     "amount": 72.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "kaffir_lime_leaves": {
+  "silpo": [
+   {
+    "ref": "1edb8674-6385-672a-8d29-69d695bb8b20",
+    "title": "Листя кафіра і лайма deSiam сушене",
+    "weighted": false,
+    "pack": {
+     "amount": 3.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "kalamata_olives": {
   "silpo": [
    {
@@ -6464,6 +10001,58 @@
     }
    }
   ]
+ },
+ "kale": {
+  "silpo": [
+   {
+    "ref": "1edb85f8-b000-6e00-9bf7-b5cfa3b7b301",
+    "title": "Капуста Кале",
+    "weighted": false,
+    "pack": {
+     "amount": 100,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ee4ea26-90de-6d06-9ec1-1b686b09beee",
+    "title": "Капуста Кале",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "kanpyo": {
+  "silpo": [
+   {
+    "ref": "1ed21e6a-4ade-6134-92cb-ef904fa4ce13",
+    "title": "Гарбуз Asia Kitchen Kanpyo маринований",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "kataifi": {
+  "silpo": [
+   {
+    "ref": "1f0b5ed4-b715-6030-9c6d-83a1fec95223",
+    "title": "Тісто Рудь Кадаїф заморожене",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "katsuobushi": {
+  "silpo": [],
+  "novus": []
  },
  "kefir": {
   "silpo": [
@@ -6606,6 +10195,104 @@
    }
   ]
  },
+ "kimchi": {
+  "silpo": [
+   {
+    "ref": "1f169d53-a2da-60a2-91f3-afbb9765dc98",
+    "title": "Кімчі Sempio оригінальна",
+    "weighted": false,
+    "pack": {
+     "amount": 160.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f123ede-6af2-6176-8b86-53381195d87f",
+    "title": "Кімчі Jongga консервоване",
+    "weighted": false,
+    "pack": {
+     "amount": 160.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "00883298182906",
+    "title": "Капуста Dong Won кімчі 160г",
+    "weighted": false,
+    "pack": {
+     "amount": 160.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "kimchi_sauce": {
+  "silpo": [
+   {
+    "ref": "1edb8311-cec3-6eb2-836f-33853681da2c",
+    "title": "Соус House of Asia Кімчі",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ed07693-4122-6f1c-bb39-bd2f9278424b",
+    "title": "Соус JS «Кімчі» с/б",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "king_prawns": {
+  "silpo": [
+   {
+    "ref": "1ed07699-5689-677e-9d27-bd2f9278424b",
+    "title": "Креветка королівська в панцирі 40/80 с/м",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1efb684c-d3d8-6a66-9a7d-7bdcf86ee748",
+    "title": "Креветка королівська в панцирі 20/40 свіжоморожена",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1efa3ac8-8517-654c-9a99-61ffdb0ea2ab",
+    "title": "Креветки VICI Королівські розібрані сироморожені 21/25",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02871951000000",
+    "title": "Креветки королівські свіжоморожені 40/60",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "07798134401079",
+    "title": "Креветки Аргентинські Королівські з головою в панцирі заморожені 20/30 2кг",
+    "weighted": false,
+    "pack": {
+     "amount": 2000.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "kiwi": {
   "silpo": [
    {
@@ -6678,6 +10365,17 @@
    }
   ]
  },
+ "kumquat": {
+  "silpo": [
+   {
+    "ref": "1ed54344-4de3-6292-9d62-714ad45b7c92",
+    "title": "Кумкват",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
  "labneh": {
   "silpo": [
    {
@@ -6700,6 +10398,201 @@
    }
   ],
   "novus": []
+ },
+ "lactose_free_butter": {
+  "silpo": [
+   {
+    "ref": "1eed1408-0aec-64fa-b6ec-6dff2c791996",
+    "title": "Масло солодковершкове Яготинське безлактозне 82,5%",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ef550d7-38df-672c-b23a-b12fba711d88",
+    "title": "Масло солодковершкове Organic Milk безлактозне 82,6%",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823005210979",
+    "title": "Масло Яготинське Безлактозне солодковершкове 82,5% 180г",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820006852627",
+    "title": "Масло Prego солодковершкове безлактозне 82,5% 180г",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "lactose_free_cottage_cheese": {
+  "silpo": [
+   {
+    "ref": "1ed07698-01b0-60f0-ab0a-dd63763181f9",
+    "title": "Сир кисломолочний «Галичина» безлактозний 5%",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f073186-04a8-6764-8b65-cfa258374b42",
+    "title": "Сир кисломолочний Біло безлактозний 5% пачка",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ee235a8-abe4-6c66-9e07-21f2a0dc831d",
+    "title": "Сир кисломолочний Яготинський безлактозний 5%",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820019494784",
+    "title": "Сир кисломолочний Біло безлактозний 5% 180г",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820019494807",
+    "title": "Сир кисломолочний Біло безлактозний 5% 350г",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820222760607",
+    "title": "Сир кисломолочний Галичина безлактозний 5% 300г",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "lactose_free_cream": {
+  "silpo": [
+   {
+    "ref": "1ed0766f-2f14-6b0a-8c23-eb0bb71c4ffc",
+    "title": "Вершки ультрапастеризовані «На здоров'я» безлактозні 10%",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f0941b1-d810-642a-929c-31624d54fcd7",
+    "title": "Вершки ультрапастер Яготинські безлактозні 10% т/б",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f07e347-4158-6218-816d-71bd376f7363",
+    "title": "Вершки Галичина ультрапастеризовані безлактозні 10%",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820003486658",
+    "title": "Вершки На Здоров'я рідкі безлактозні ультрапастеризовані 10% 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820254400748",
+    "title": "Вершки На Здоров'я безлактозні ультрапастеризовані 10% 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "lactose_free_cream_cheese": {
+  "silpo": [
+   {
+    "ref": "1ef708de-0073-6ada-8daf-1fc5c835709c",
+    "title": "Крем-сир Good milk безлактозний 20%",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1eddb0eb-064e-616c-acdb-136c83c9490b",
+    "title": "Сир-крем Arla безлактозний натуральний 50%",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "05902899143835",
+    "title": "Крем-сир Hochland Almette вершковий безлактозний 55% 150г",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04019300153787",
+    "title": "Крем-сир Exquisa безлактозний 70% 175г",
+    "weighted": false,
+    "pack": {
+     "amount": 175.0,
+     "unit": "g"
+    }
+   }
+  ]
  },
  "lamb_leg": {
   "silpo": [
@@ -6775,6 +10668,23 @@
     "pack": null
    }
   ]
+ },
+ "lamb_shoulder": {
+  "silpo": [
+   {
+    "ref": "1ee484bd-bc7a-6722-99e2-1d170a264c1c",
+    "title": "Ягняча лопатка охолоджена",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed076a1-d45f-6dd0-97ee-c1af87aa927f",
+    "title": "Ягняча лопатка охолоджена в/у",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
  },
  "lamb_tongue": {
   "silpo": [
@@ -6923,6 +10833,41 @@
    }
   ]
  },
+ "lemon_pepper": {
+  "silpo": [
+   {
+    "ref": "1ed7152a-fcfc-60f8-8873-5f60da3661be",
+    "title": "Приправа Kamis «Лимонний перець»",
+    "weighted": false,
+    "pack": {
+     "amount": 20.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "05900084221825",
+    "title": "Перець Kamis лимонний 20г",
+    "weighted": false,
+    "pack": {
+     "amount": 20.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "lemongrass": {
+  "silpo": [
+   {
+    "ref": "1f0b9db0-89a9-67ca-8818-b329f6094a53",
+    "title": "Лемонграс",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
  "lime": {
   "silpo": [
    {
@@ -6946,6 +10891,20 @@
    {
     "ref": "1edbd102-1520-62d2-8a1b-09e441c4ee6a",
     "title": "Брусниця ІнвестВ",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "lobster": {
+  "silpo": [
+   {
+    "ref": "1eef3a09-c523-60ac-bbcc-476770d85464",
+    "title": "Омар Delfin Лобстер Американський сирий заморожений",
     "weighted": false,
     "pack": {
      "amount": 400.0,
@@ -6994,6 +10953,45 @@
    }
   ],
   "novus": []
+ },
+ "maasdam": {
+  "silpo": [
+   {
+    "ref": "1f0ce300-de62-6fa0-929a-09380ffd6ead",
+    "title": "Сир A cheese Маасдам 45%",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed0762c-2ed0-65e2-8fc2-dd63763181f9",
+    "title": "Сир «Премія»® Маасдам 45%",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1f07bbd6-6bdf-6fec-b895-cb21cfc34445",
+    "title": "Сир Deli Q Daily Маасдам 45% з коров’ячого молока нарізка",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02882702000000",
+    "title": "Сир Kroon Маасдам 45%",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "novus02870271000000",
+    "title": "Сир Новгород-Сіверський Маасдам твердий 45%",
+    "weighted": true,
+    "pack": null
+   }
+  ]
  },
  "mackerel": {
   "silpo": [
@@ -7075,6 +11073,24 @@
   ],
   "novus": []
  },
+ "mandarin": {
+  "silpo": [
+   {
+    "ref": "1ed39821-cc91-6762-935c-8f05abac3364",
+    "title": "Мандарин Надаркотт",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02866811000000",
+    "title": "Мандарин Іспанія",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "mango": {
   "silpo": [
    {
@@ -7088,6 +11104,81 @@
    }
   ],
   "novus": []
+ },
+ "mango_chili_sauce": {
+  "silpo": [
+   {
+    "ref": "1ed07677-05b4-68a2-813b-dd63763181f9",
+    "title": "Соус «Щедро» «Манго-чилі» д/п",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ef4a0d5-a4d5-6ef2-b713-a9c44e6b1e0c",
+    "title": "Соус Ascania Манго-чилі",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823097405819",
+    "title": "Соус Щедро Манго-чилі 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "mango_sorbet": {
+  "silpo": [
+   {
+    "ref": "1ed07668-3031-6634-99e6-c1af87aa927f",
+    "title": "Сорбет «МО?» Манго",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edafffd-43c3-69bc-96e7-c9a9c5f7a57c",
+    "title": "Морозиво Рудь Сорбет манго",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823097807361",
+    "title": "Морозиво Рудь Манго сорбет 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04823086113428",
+    "title": "Морозиво Три Ведмеді Сорбет Манго 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ]
  },
  "maple_syrup": {
   "silpo": [
@@ -7173,6 +11264,30 @@
    }
   ]
  },
+ "marinated_chanterelles": {
+  "silpo": [
+   {
+    "ref": "1edaece1-2f14-6996-beaa-fdc61a51c956",
+    "title": "Лисички «Шарм» мариновані",
+    "weighted": false,
+    "pack": {
+     "amount": 480.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820012790227",
+    "title": "Лисички Шарм мариновані 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "marinated_honey_mushrooms": {
   "silpo": [
    {
@@ -7214,6 +11329,29 @@
     }
    }
   ]
+ },
+ "marinated_oyster_mushrooms": {
+  "silpo": [
+   {
+    "ref": "1ee68855-3241-63ba-aeba-c7331fa6c38e",
+    "title": "Гриби WellDar Гливи мариновані",
+    "weighted": false,
+    "pack": {
+     "amount": 530.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1eee7135-00cc-6b74-be36-8f7dfdcb7b0c",
+    "title": "Гриби Duxel Гливи мариновані",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "marinated_pepper": {
   "silpo": [
@@ -7260,6 +11398,53 @@
  "maritozzo_bun": {
   "silpo": [],
   "novus": []
+ },
+ "marsala_wine": {
+  "silpo": [],
+  "novus": [
+   {
+    "ref": "08009495203752",
+    "title": "Вино Marsala Fine I.P. Ambra біле солодке 17% 0,75л",
+    "weighted": false,
+    "pack": {
+     "amount": 750.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "08004445032468",
+    "title": "Вино Cantine Pellegrino Marsala Fine I.P. Secco DOC біле напівсухе 17% 0,75л",
+    "weighted": false,
+    "pack": {
+     "amount": 750.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
+ "masago": {
+  "silpo": [
+   {
+    "ref": "1edaf976-6738-6178-b0ae-df42cf4d0987",
+    "title": "Ікра мойви Водний світ",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820088415130",
+    "title": "Ікра мойви Водний Світ Масаго 100г",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ]
  },
  "mascarpone": {
   "silpo": [
@@ -7509,6 +11694,48 @@
   ],
   "novus": []
  },
+ "millet": {
+  "silpo": [
+   {
+    "ref": "1ef61a32-177b-62d2-b81b-4de54a3b7f6d",
+    "title": "Крупа «Повна Чаша»® пшоно шліфоване",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed32754-7ef8-653e-81e5-8f05abac3364",
+    "title": "Крупа «Козацький стандарт» пшоно шліфоване",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820153260733",
+    "title": "Крупа пшоно Marka Promo 1кг",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820211660154",
+    "title": "Крупа Хуторок Пшоно шліфоване 800г",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "minced_beef": {
   "silpo": [
    {
@@ -7556,6 +11783,10 @@
     }
    }
   ]
+ },
+ "minced_goat": {
+  "silpo": [],
+  "novus": []
  },
  "minced_lamb": {
   "silpo": [
@@ -7674,6 +11905,109 @@
   ],
   "novus": []
  },
+ "mirin": {
+  "silpo": [
+   {
+    "ref": "1edb011e-abde-6354-a5ff-dd4c0c66fb27",
+    "title": "Приправа Katana «Мірін»",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ed07641-26e3-6702-956d-dd63763181f9",
+    "title": "Соус JS «Мірін»",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04901177132319",
+    "title": "Соус Мірін JS 200мл",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
+ "miso_kalonji_bread": {
+  "silpo": [
+   {
+    "ref": "1ef6656a-7aa0-6712-82cb-c58cb29445f2",
+    "title": "Хліб Лавка традицій Honey Місо-калінджі",
+    "weighted": false,
+    "pack": {
+     "amount": 580.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "miso_paste": {
+  "silpo": [
+   {
+    "ref": "1ed0c33f-fa45-641a-b0cd-c1af87aa927f",
+    "title": "Паста соєва світла Akura «Місо»",
+    "weighted": false,
+    "pack": {
+     "amount": 80.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0761c-cb22-6270-9c70-dd63763181f9",
+    "title": "Паста Katana місо соєва світла",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820131230970",
+    "title": "Паста соєва Katana Місо світла 100г",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "mizuna": {
+  "silpo": [
+   {
+    "ref": "1f0aa1b8-19fa-61a8-a506-53b38ddd6b9c",
+    "title": "Салат Пучок-Свіжачок Мізуна",
+    "weighted": false,
+    "pack": {
+     "amount": 75.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1eec60dc-d01c-6386-b20b-4b820e9e5d9a",
+    "title": "Мізуна Ї'm Salata Космосівна свіжа",
+    "weighted": false,
+    "pack": {
+     "amount": 60.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "mortadella": {
   "silpo": [
    {
@@ -7743,6 +12077,33 @@
    }
   ]
  },
+ "multigrain_bread": {
+  "silpo": [
+   {
+    "ref": "1edb8b63-f5ab-687c-abee-350473e48254",
+    "title": "Хліб «Крафтяр» подовий мультизерновий",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1f12f982-7a11-6c4c-90fb-17e90d2b18e9",
+    "title": "Хліб Мультизерновий",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02869567000000",
+    "title": "Хліб Мультизерновий",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "mung_bean_sprouts": {
   "silpo": [
    {
@@ -7783,6 +12144,20 @@
     "pack": null
    }
   ]
+ },
+ "mussels_half_shell": {
+  "silpo": [
+   {
+    "ref": "1ed07671-af0d-6864-87ab-dd63763181f9",
+    "title": "М'ясо мідії Vici з половинкою мушлі варено-морожене",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "mustard": {
   "silpo": [
@@ -7826,6 +12201,34 @@
    }
   ]
  },
+ "nachos_chips": {
+  "silpo": [
+   {
+    "ref": "1f10fcd5-b210-6586-8d66-89d9105882da",
+    "title": "Чипси «Премія»® кукурудзяні із сіллю",
+    "weighted": false,
+    "pack": {
+     "amount": 125.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "05202175001096",
+    "title": "Чипси начос El Sabor солоні 100г",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "nadugi": {
+  "silpo": [],
+  "novus": []
+ },
  "napa_cabbage": {
   "silpo": [
    {
@@ -7856,6 +12259,10 @@
     }
    }
   ],
+  "novus": []
+ },
+ "nduja": {
+  "silpo": [],
   "novus": []
  },
  "nori": {
@@ -8008,6 +12415,21 @@
    }
   ]
  },
+ "nutria": {
+  "silpo": [
+   {
+    "ref": "1edb260a-7918-67ce-8fd0-e990029622e2",
+    "title": "Нутрія тушка охолоджена",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "oat_ciabatta": {
+  "silpo": [],
+  "novus": []
+ },
  "oat_flakes": {
   "silpo": [
    {
@@ -8054,6 +12476,39 @@
     "weighted": false,
     "pack": {
      "amount": 800.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "oat_flour": {
+  "silpo": [
+   {
+    "ref": "1ee3c816-70d8-61ca-b13b-57aa32a17f1d",
+    "title": "Борошно Козуб продукт вівсяне",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed6f274-c035-6792-baf5-656602f91af7",
+    "title": "Борошно «Сто пудів» вівсяне",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820168881480",
+    "title": "Борошно вівсяне Сто Пудів 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
      "unit": "g"
     }
    }
@@ -8194,6 +12649,29 @@
    }
   ]
  },
+ "onion_baguette": {
+  "silpo": [
+   {
+    "ref": "1ee88032-0854-6170-950f-d1b64db9fcc2",
+    "title": "Багет Крафтяр подовий з цибулею та оливковою олією",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ef958c7-87f5-6130-a805-d5470c96b87a",
+    "title": "Багет подовий з цибулею та оливковою олією",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "orange": {
   "silpo": [
    {
@@ -8278,6 +12756,76 @@
    }
   ]
  },
+ "oreo_cookies": {
+  "silpo": [
+   {
+    "ref": "1ed07655-5a95-6636-8e26-dd63763181f9",
+    "title": "Печиво Oreo Original з какао та начинкою з ванільним смаком",
+    "weighted": false,
+    "pack": {
+     "amount": 95.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07655-5a95-69ce-9e3a-dd63763181f9",
+    "title": "Печиво Oreo Original з какао та начинкою з ванільним смаком",
+    "weighted": false,
+    "pack": {
+     "amount": 228.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "07622210309358",
+    "title": "Печиво-сендвіч Oreo з какао та кремовою ванільною начинкою 95г",
+    "weighted": false,
+    "pack": {
+     "amount": 95.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "07622210375742",
+    "title": "Печиво-сендвіч Oreo з какао та кремовою ванільною начинкою 228г",
+    "weighted": false,
+    "pack": {
+     "amount": 228.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "orzo": {
+  "silpo": [
+   {
+    "ref": "1ed0768c-9bec-6788-a84e-eb0bb71c4ffc",
+    "title": "Вироби макаронні Garofalo «Орцо»",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08008912010881",
+    "title": "Макаронні вироби Pastificio Liguori Orzo 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "ostrich_liver": {
+  "silpo": [],
+  "novus": []
+ },
  "oxtail": {
   "silpo": [
    {
@@ -8355,6 +12903,152 @@
    }
   ]
  },
+ "oysters": {
+  "silpo": [
+   {
+    "ref": "1ed07689-90bc-6dac-baa5-c1af87aa927f",
+    "title": "Устриця Fin de clair (Фін де клер) №3",
+    "weighted": false,
+    "pack": {
+     "amount": 1,
+     "unit": "pcs"
+    }
+   },
+   {
+    "ref": "1ed0768d-db82-69fa-b5ec-5f148feebb3f",
+    "title": "Устриця Fin de clair (Фін де клер) №4",
+    "weighted": false,
+    "pack": {
+     "amount": 1,
+     "unit": "pcs"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02842130000000",
+    "title": "Устриця Fin De Claire №4",
+    "weighted": false,
+    "pack": {
+     "amount": 1,
+     "unit": "pcs"
+    }
+   },
+   {
+    "ref": "novus02843004000000",
+    "title": "Устриця Санчес №4, шт",
+    "weighted": false,
+    "pack": {
+     "amount": 1,
+     "unit": "pcs"
+    }
+   }
+  ]
+ },
+ "paccheri": {
+  "silpo": [
+   {
+    "ref": "1edb830b-d23c-60e0-81ef-33853681da2c",
+    "title": "Вироби макаронні Pastificio Di Martino Paccheri",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "pad_kra_pao_sauce": {
+  "silpo": [],
+  "novus": []
+ },
+ "pad_thai_sauce": {
+  "silpo": [
+   {
+    "ref": "1f127dc4-1a2d-68b0-b590-abe626c06896",
+    "title": "Соус для смаження Торчин Пад Тай",
+    "weighted": false,
+    "pack": {
+     "amount": 65.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb04d7-ba55-6128-8bcb-2f3643d88bc7",
+    "title": "Соус House of Asia Пад Тай",
+    "weighted": false,
+    "pack": {
+     "amount": 72.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "08445292190206",
+    "title": "Соус для смаження ТОРЧИН® Пад Тай 65г",
+    "weighted": false,
+    "pack": {
+     "amount": 65.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "padron_pepper": {
+  "silpo": [
+   {
+    "ref": "1ed18c11-8db4-697c-a72c-ef978c4a0ae5",
+    "title": "Перець Падрон",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1eef861c-c9a6-6f3e-8b4c-476770d85464",
+    "title": "Перець Падрон",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820219962038",
+    "title": "Перець Падрон фасований 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "palianytsia": {
+  "silpo": [
+   {
+    "ref": "1edcd58a-682d-6046-8a02-4d82606bab4c",
+    "title": "Хліб Київхліб Паляниця половинка нарізаний",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edfa7e0-9d10-60bc-844f-1b86d8a33b41",
+    "title": "Хліб Живий хліб Полісся Домашня паляниця пшенична",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "pampushky": {
   "silpo": [
    {
@@ -8408,6 +13102,10 @@
     }
    }
   ]
+ },
+ "panipuri_shells": {
+  "silpo": [],
+  "novus": []
  },
  "panko": {
   "silpo": [
@@ -8570,9 +13268,102 @@
    }
   ]
  },
+ "passion_fruit": {
+  "silpo": [],
+  "novus": [
+   {
+    "ref": "novus02050000019159",
+    "title": "Маракуйя, шт",
+    "weighted": false,
+    "pack": {
+     "amount": 1,
+     "unit": "pcs"
+    }
+   }
+  ]
+ },
+ "pasta_stars": {
+  "silpo": [
+   {
+    "ref": "1ed0765e-4bb0-6748-bc6b-c1af87aa927f",
+    "title": "Вироби макаронні La Pasta супові зірочки",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed075ec-29b5-6110-9fcd-dd63763181f9",
+    "title": "Макаронні вироби Divella «Зірочки супові»",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820101714431",
+    "title": "Макаронні вироби La Pasta Per Primi зірочки супові 400г",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "patagonian_toothfish": {
+  "silpo": [],
+  "novus": []
+ },
  "peach": {
   "silpo": [],
   "novus": []
+ },
+ "peanut_butter": {
+  "silpo": [
+   {
+    "ref": "1ed07642-87d4-6f56-ad61-dd63763181f9",
+    "title": "Паста арахісова «Премія»® з сіллю",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ee89b86-f72d-680e-8609-f58b40446f64",
+    "title": "Паста TOM Класична арахісова",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820207471832",
+    "title": "Паста арахісова Fruity Land 300г",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "05900617038289",
+    "title": "Паста арахісова Go On Nutrition Smooth 500г",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ]
  },
  "peanuts": {
   "silpo": [
@@ -8612,6 +13403,69 @@
    }
   ]
  },
+ "pearl_barley": {
+  "silpo": [
+   {
+    "ref": "1ef61a32-2301-6318-a61d-4de54a3b7f6d",
+    "title": "Крупа «Повна Чаша»® перлова",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edaed4f-399c-67f6-ba29-c596f8a4e92f",
+    "title": "Крупа Щедрі Брати перлова",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823013900169",
+    "title": "Крупа перлова Екор 900г",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820153260702",
+    "title": "Крупа перлова Marka Promo 1кг",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "pecan": {
+  "silpo": [
+   {
+    "ref": "1efce1d6-f153-6b40-b131-330345a6c2d0",
+    "title": "Горіх пекан",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02881656000000",
+    "title": "Горіх пекан чищений",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "pecorino": {
   "silpo": [
    {
@@ -8646,6 +13500,48 @@
     "weighted": false,
     "pack": {
      "amount": 150.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "pelmeni": {
+  "silpo": [
+   {
+    "ref": "1f0f7256-11cc-6030-af71-f98508447d6d",
+    "title": "Пельмені Крафтяр Три м'яска заморожені",
+    "weighted": false,
+    "pack": {
+     "amount": 600.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0768c-39ca-6af0-972e-dd63763181f9",
+    "title": "Пельмені «Геркулес» «Гетьманські» м'ясні",
+    "weighted": false,
+    "pack": {
+     "amount": 600.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820196522652",
+    "title": "Пельмені Рудь 100% 800г",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04823097816288",
+    "title": "Пельмені Рудь Три м'яса 800г",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
      "unit": "g"
     }
    }
@@ -8693,6 +13589,30 @@
    }
   ]
  },
+ "pepper_mix": {
+  "silpo": [
+   {
+    "ref": "1efa21ac-6396-65ec-b29c-c13d762e18d5",
+    "title": "Суміш перців PREMIA горошком",
+    "weighted": false,
+    "pack": {
+     "amount": 20.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820154833264",
+    "title": "Суміш перців Мрія Класична горошком 30г",
+    "weighted": false,
+    "pack": {
+     "amount": 30.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "pepperoni": {
   "silpo": [
    {
@@ -8718,6 +13638,36 @@
     "weighted": false,
     "pack": {
      "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "perch_fillet": {
+  "silpo": [
+   {
+    "ref": "1ed0769f-d0d9-6898-8963-5f148feebb3f",
+    "title": "Окунь Norven, філе, порції, свіжоморожений",
+    "weighted": false,
+    "pack": {
+     "amount": 450.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed075e1-9a30-6d0a-aeb2-dd63763181f9",
+    "title": "Окунь свіжоморожений, філе в глазурі",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820224235639",
+    "title": "Окунь Norven філе порції свіжеморожений 450г",
+    "weighted": false,
+    "pack": {
+     "amount": 450.0,
      "unit": "g"
     }
    }
@@ -8751,6 +13701,30 @@
     "weighted": false,
     "pack": {
      "amount": 190.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "pickled_celery": {
+  "silpo": [
+   {
+    "ref": "1ed0764a-de4e-6a32-8180-dd63763181f9",
+    "title": "Селера «Грінвіль» маринована",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823006804207",
+    "title": "Селера Грінвіль маринована 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
      "unit": "g"
     }
    }
@@ -8797,6 +13771,52 @@
     }
    }
   ]
+ },
+ "pickled_ginger": {
+  "silpo": [
+   {
+    "ref": "1ed5a008-cc08-6c96-9fa2-43a2c1ce3c17",
+    "title": "Імбир Akura маринований",
+    "weighted": false,
+    "pack": {
+     "amount": 230.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07696-7639-6a9a-b16e-c1af87aa927f",
+    "title": "Імбир Katana рожевий маринований",
+    "weighted": false,
+    "pack": {
+     "amount": 80.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04901177020807",
+    "title": "Імбир Katana рожевий маринований 80г",
+    "weighted": false,
+    "pack": {
+     "amount": 80.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820172440192",
+    "title": "Імбир Hokkaido Club маринований 230г",
+    "weighted": false,
+    "pack": {
+     "amount": 230.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "piemontino_cheese": {
+  "silpo": [],
+  "novus": []
  },
  "pike": {
   "silpo": [
@@ -8846,6 +13866,40 @@
    }
   ]
  },
+ "pike_perch_fillet": {
+  "silpo": [
+   {
+    "ref": "1ed07665-b06a-6fd8-ba00-c1af87aa927f",
+    "title": "Судак великий, філе охолоджене",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "pine_cone_jam": {
+  "silpo": [
+   {
+    "ref": "1edaf6d0-6026-6e32-8cec-095b0f6e1b62",
+    "title": "Варення Лавка традицій із соснових шишок",
+    "weighted": false,
+    "pack": {
+     "amount": 360.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f0be93c-4cae-6848-bc9e-01095255044c",
+    "title": "Варення Лавка традицій Полісянка із соснових шишок",
+    "weighted": false,
+    "pack": {
+     "amount": 410.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "pine_nuts": {
   "silpo": [
    {
@@ -8893,6 +13947,110 @@
    }
   ]
  },
+ "pink_peppercorns": {
+  "silpo": [
+   {
+    "ref": "1efa21ac-78bf-6662-a72e-c13d762e18d5",
+    "title": "Перець PREMIA рожевий горошок",
+    "weighted": false,
+    "pack": {
+     "amount": 10.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f05d192-a57a-6412-8d64-4f8706f2503b",
+    "title": "Перець рожевий Sainte Lucie горошок",
+    "weighted": false,
+    "pack": {
+     "amount": 25.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "piri_piri_pepper": {
+  "silpo": [
+   {
+    "ref": "1ed075ea-ed4c-6aa8-96c0-dd63763181f9",
+    "title": "Перчик Iberica «Пірі-Пірі» гострий",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "pistachio_ice_cream": {
+  "silpo": [
+   {
+    "ref": "1ed0765e-daf4-6080-a08f-dd63763181f9",
+    "title": "Морозиво «Фісташкове»",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1edb0044-c137-62ee-aba7-dd4c0c66fb27",
+    "title": "Морозиво «Хладик» «Морозко» фісташкове",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820201941461",
+    "title": "Морозиво La Gelateria Italiana Фісташка №4 330г",
+    "weighted": false,
+    "pack": {
+     "amount": 330.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "pistachio_paste": {
+  "silpo": [
+   {
+    "ref": "1eed140e-f97a-6dc8-96e8-a11e8fadc9fb",
+    "title": "Паста TOM Класична фісташкова",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edafd57-cdcf-650a-9143-5f8022da6d6b",
+    "title": "Паста фісташкова «Лавка Традицій» Aumi ніжна",
+    "weighted": false,
+    "pack": {
+     "amount": 120.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "pistachio_pesto": {
+  "silpo": [
+   {
+    "ref": "1f111114-418d-655e-9d54-75c8e7f6b333",
+    "title": "Соус Sacla' песто з базиліком та фісташкою",
+    "weighted": false,
+    "pack": {
+     "amount": 190.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "pistachios": {
   "silpo": [
    {
@@ -8926,6 +14084,53 @@
     "weighted": false,
     "pack": {
      "amount": 300.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "plant_kebab": {
+  "silpo": [
+   {
+    "ref": "1eefddcf-f141-68f4-9b24-2101d577d574",
+    "title": "Кебаб Wanted Vegan рослинний",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "plant_mince": {
+  "silpo": [
+   {
+    "ref": "1ed076a5-ac03-6810-97dd-29fd0f44b629",
+    "title": "Фарш Eat me at на рослинній основі",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edbd78a-4af9-61c2-b3b0-09e441c4ee6a",
+    "title": "Фарш Eat me at на рослинній основі",
+    "weighted": false,
+    "pack": {
+     "amount": 1400.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820251890016",
+    "title": "Фарш Eat Me At на рослинній основі заморожений 350г",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
      "unit": "g"
     }
    }
@@ -9102,12 +14307,65 @@
    }
   ]
  },
+ "pork_caul": {
+  "silpo": [
+   {
+    "ref": "1ed66936-cf13-6bd2-af14-9904c3037e39",
+    "title": "Свиняча сітка заморожена фасована",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
  "pork_ears": {
   "silpo": [],
   "novus": [
    {
     "ref": "novus02860263000000",
     "title": "Вуха свинячі охолоджені",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
+ "pork_liver": {
+  "silpo": [
+   {
+    "ref": "1ed075ff-63d0-66fc-85f7-dd63763181f9",
+    "title": "Печінка свиняча охолоджена",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02856580000000",
+    "title": "Печінка свиняча охолоджена",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
+ "pork_loin": {
+  "silpo": [
+   {
+    "ref": "1edb798d-1d9b-6c1c-82be-b7c753e6a508",
+    "title": "Свиняча корейка",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed07680-b0f2-6242-9597-c1af87aa927f",
+    "title": "Свиняча корейка охолоджена в/у",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02856431000000",
+    "title": "Корейка свиняча без кістки охолоджена",
     "weighted": true,
     "pack": null
    }
@@ -9221,6 +14479,75 @@
    }
   ]
  },
+ "pork_tongue": {
+  "silpo": [
+   {
+    "ref": "1ed07607-763f-6bd2-b7c4-dd63763181f9",
+    "title": "Язик свинячий охолоджений",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02856581000000",
+    "title": "Язик свинячий охолоджений",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
+ "pork_trotters": {
+  "silpo": [
+   {
+    "ref": "1ed075ff-63d1-6278-b15e-dd63763181f9",
+    "title": "Ніжки свинячі охолоджені",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02860342000000",
+    "title": "Ніжки свинячі охолоджені",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
+ "port_wine": {
+  "silpo": [
+   {
+    "ref": "1ed07673-1347-600e-bd61-dd63763181f9",
+    "title": "Портвейн Saint Claire Porto Ruby",
+    "weighted": false,
+    "pack": {
+     "amount": 750.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ed07642-960d-6884-8de4-dd63763181f9",
+    "title": "Портвейн Kopke Fine Ruby",
+    "weighted": false,
+    "pack": {
+     "amount": 375.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "05601144333013",
+    "title": "Вино Port Rozes Ruby Port High Портвейн червоне сухе кріплене 20% 0,75л",
+    "weighted": false,
+    "pack": {
+     "amount": 750.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
  "potato": {
   "silpo": [
    {
@@ -9250,6 +14577,10 @@
     "pack": null
    }
   ]
+ },
+ "potato_bun": {
+  "silpo": [],
+  "novus": []
  },
  "powdered_sugar": {
   "silpo": [
@@ -9288,6 +14619,62 @@
     "weighted": false,
     "pack": {
      "amount": 350.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "preserved_lemons": {
+  "silpo": [
+   {
+    "ref": "1f109364-5019-675e-8904-61da3af5b43b",
+    "title": "Лимони Лавка Традицій Brave Bee солені з чилі",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "processed_cheese": {
+  "silpo": [
+   {
+    "ref": "1f0aae4b-377b-6f2a-98a1-ef16e5429703",
+    "title": "Сир плавлений Ферма Вершковий 35% брикет",
+    "weighted": false,
+    "pack": {
+     "amount": 70.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ee2812a-a4c7-6a50-ac64-d916ed74113a",
+    "title": "Сир плавлений President Вершковий 45%",
+    "weighted": false,
+    "pack": {
+     "amount": 160.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820245529519",
+    "title": "Сир плавлений Ферма Вершковий 35% 70г",
+    "weighted": false,
+    "pack": {
+     "amount": 70.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04823065730547",
+    "title": "Сир плавлений President Вершковий 45% 160г",
+    "weighted": false,
+    "pack": {
+     "amount": 160.0,
      "unit": "g"
     }
    }
@@ -9332,6 +14719,48 @@
    }
   ]
  },
+ "provence_herbs": {
+  "silpo": [
+   {
+    "ref": "1ed537bd-29d8-674a-8501-714ad45b7c92",
+    "title": "Суміш спецій «Банка спецій» прованські трави",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0767c-bb7f-651a-8a3f-eb0bb71c4ffc",
+    "title": "Суміш прянощів «Мрія» «Прованські трави»",
+    "weighted": false,
+    "pack": {
+     "amount": 10.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820154833066",
+    "title": "Суміш спецій Мрія Прованські трави 10г",
+    "weighted": false,
+    "pack": {
+     "amount": 10.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820068153663",
+    "title": "Суміш спецій Еко Прованські трави 10г",
+    "weighted": false,
+    "pack": {
+     "amount": 10.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "prunes": {
   "silpo": [
    {
@@ -9361,6 +14790,20 @@
     "pack": null
    }
   ]
+ },
+ "psyllium": {
+  "silpo": [
+   {
+    "ref": "1efb297b-7ac3-6328-843a-7bdcf86ee748",
+    "title": "Псиліум Wholesome Seedsmix Mono",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "ptitim": {
   "silpo": [
@@ -9452,6 +14895,39 @@
     "title": "Гарбуз Хокайдо",
     "weighted": true,
     "pack": null
+   }
+  ]
+ },
+ "pumpkin_seed_oil": {
+  "silpo": [
+   {
+    "ref": "1ef9d628-3278-6dcc-b08a-43942e68378d",
+    "title": "Олія Кухар'Є гарбузова нерафінована холодного пресування",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1eec15ca-eb91-66be-82c8-2155cb7c5b18",
+    "title": "Олія Кухар'Є гарбузова нерафінована холодного пресування",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820043010431",
+    "title": "Олія гарбузова Golden Kings of Ukraine 240мл",
+    "weighted": false,
+    "pack": {
+     "amount": 240.0,
+     "unit": "ml"
+    }
    }
   ]
  },
@@ -9587,6 +15063,38 @@
    }
   ]
  },
+ "rabbit_liver": {
+  "silpo": [
+   {
+    "ref": "1ed0760c-3310-6f50-9f22-dd63763181f9",
+    "title": "Печінка кролика охолоджена в/у",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02860890000000",
+    "title": "Печінка кроляча Братці кролики охолоджена",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
+ "radiatore": {
+  "silpo": [
+   {
+    "ref": "1ed075f1-ef9c-6b3a-bfe0-dd63763181f9",
+    "title": "Макаронні вироби Garofalo «Радіатори»",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "radish": {
   "silpo": [
    {
@@ -9643,6 +15151,135 @@
     }
    }
   ]
+ },
+ "ramen_noodles": {
+  "silpo": [
+   {
+    "ref": "1f1352fd-9f73-6920-98c1-fb20bec02fd1",
+    "title": "Локшина Katana Ramen для рамену та нудл-страв",
+    "weighted": false,
+    "pack": {
+     "amount": 220.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "rapana_meat": {
+  "silpo": [
+   {
+    "ref": "1ed075f5-c289-6eb4-9d38-dd63763181f9",
+    "title": "М'ясо рапан варено-морожене",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "raspberry": {
+  "silpo": [
+   {
+    "ref": "1ed075e5-990d-66ea-afa3-dd63763181f9",
+    "title": "Малина",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed0760d-c033-6102-bf95-dd63763181f9",
+    "title": "Малина українська",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820170810027",
+    "title": "Малина 250г",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "raspberry_jam": {
+  "silpo": [
+   {
+    "ref": "1ed07611-805e-68e8-b1f9-dd63763181f9",
+    "title": "Джем «Премія»® малиновий стерилізований",
+    "weighted": false,
+    "pack": {
+     "amount": 375.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed076a9-9638-6c66-80a6-eb0bb71c4ffc",
+    "title": "Джем «Верес» малиновий с/б",
+    "weighted": false,
+    "pack": {
+     "amount": 380.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f05d193-9590-6212-bd66-453ea4f5d44c",
+    "title": "Джем Nora з малини",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820145374363",
+    "title": "Джем Marka Promo Малина 250г",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820008091222",
+    "title": "Джем Верес з малиною 550г",
+    "weighted": false,
+    "pack": {
+     "amount": 550.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "raspberry_vinegar": {
+  "silpo": [
+   {
+    "ref": "1ef17c5e-e4c5-6c4a-a419-e7ceeecc910a",
+    "title": "Оцет Belberry малиновий солодкий",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ed4bc31-82ab-65f0-91d8-e74aee9384e5",
+    "title": "Оцет винний Casa Rinaldi малиновий",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": []
  },
  "red_beans_canned": {
   "silpo": [
@@ -9707,6 +15344,39 @@
     "title": "Капуста червонокачанна",
     "weighted": true,
     "pack": null
+   }
+  ]
+ },
+ "red_curry_paste": {
+  "silpo": [
+   {
+    "ref": "1eee7134-e467-6b28-a27c-8f7dfdcb7b0c",
+    "title": "Паста Aroy-D Каррі червона",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb25e0-5345-6a9e-85dc-e990029622e2",
+    "title": "Паста Real Thai для приготування червоного карі",
+    "weighted": false,
+    "pack": {
+     "amount": 227.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "00016229906399",
+    "title": "Паста Aroy-D Карі червона 50г",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
    }
   ]
  },
@@ -9779,6 +15449,33 @@
    }
   ]
  },
+ "red_quinoa": {
+  "silpo": [
+   {
+    "ref": "1ed07694-9969-66e8-8184-5f148feebb3f",
+    "title": "Кіноа Feels good червона",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0768f-3462-62ea-94b8-eb0bb71c4ffc",
+    "title": "Кіноа червона",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "red_sauerkraut": {
+  "silpo": [],
+  "novus": []
+ },
  "red_wine": {
   "silpo": [
    {
@@ -9820,6 +15517,17 @@
     }
    }
   ]
+ },
+ "rhubarb": {
+  "silpo": [
+   {
+    "ref": "1ed07684-7227-64a0-97ee-c1af87aa927f",
+    "title": "Ревінь органічний",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
  },
  "ribeye_steak": {
   "silpo": [
@@ -9887,6 +15595,76 @@
    }
   ]
  },
+ "rice_balls_cereal": {
+  "silpo": [
+   {
+    "ref": "1edb23bc-a58a-6ef6-a5c5-07ce722ae755",
+    "title": "Кульки Start рисові",
+    "weighted": false,
+    "pack": {
+     "amount": 75.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "rice_chips": {
+  "silpo": [
+   {
+    "ref": "1edb8c00-17d3-69d0-b4a0-69d695bb8b20",
+    "title": "Чипси рисові",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "rice_flour": {
+  "silpo": [
+   {
+    "ref": "1ed6f274-c035-6b5c-a16a-656602f91af7",
+    "title": "Борошно «Сто пудів» рисове",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed076a3-2b34-6ad8-94c1-c1af87aa927f",
+    "title": "Борошно Sacramento рисове",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820211664473",
+    "title": "Борошно рисове La Pasta 1кг",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820009102996",
+    "title": "Борошно рисове World's Rice 900г",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "rice_noodles": {
   "silpo": [
    {
@@ -9924,6 +15702,30 @@
     "weighted": false,
     "pack": {
      "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "rice_paper": {
+  "silpo": [
+   {
+    "ref": "1ed0761c-cb21-6b0e-b79f-dd63763181f9",
+    "title": "Папір рисовий Katana",
+    "weighted": false,
+    "pack": {
+     "amount": 45.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820131230581",
+    "title": "Папір рисовий Katana 45г",
+    "weighted": false,
+    "pack": {
+     "amount": 45.0,
      "unit": "g"
     }
    }
@@ -10045,6 +15847,34 @@
     }
    }
   ]
+ },
+ "roast_beef": {
+  "silpo": [
+   {
+    "ref": "1edb8bdd-7d02-6536-9fbb-350473e48254",
+    "title": "Ростбіф телячий Ekro нарізний",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "roe_deer": {
+  "silpo": [
+   {
+    "ref": "1ed0761f-6a83-64a2-b02f-dd63763181f9",
+    "title": "Стегно косулі б/к охолоджене в/у",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed07677-bf30-6b78-b00d-9d79fa2ad32f",
+    "title": "Стегно косулі б/к с/м",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
  },
  "romaine": {
   "silpo": [
@@ -10211,6 +16041,20 @@
     "pack": {
      "amount": 20,
      "unit": "g"
+    }
+   }
+  ]
+ },
+ "sake": {
+  "silpo": [],
+  "novus": [
+   {
+    "ref": "04970860214014",
+    "title": "Саке Akashi-Tai Sake Honjozo 15% 0,72л",
+    "weighted": false,
+    "pack": {
+     "amount": 720.0,
+     "unit": "ml"
     }
    }
   ]
@@ -10442,6 +16286,54 @@
    }
   ]
  },
+ "salted_caramel_ice_cream": {
+  "silpo": [
+   {
+    "ref": "1edafdd1-b345-6f5c-95c1-c9a9c5f7a57c",
+    "title": "Морозиво «Лавка традицій» Gelarty «Солона карамель на топленому молоці»",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820217791838",
+    "title": "Морозиво Gelarty Солона карамель низькокалорійне 235мл",
+    "weighted": false,
+    "pack": {
+     "amount": 235.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
+ "salted_caramel_topping": {
+  "silpo": [
+   {
+    "ref": "1eebb0c5-27c1-6cd0-a655-5398b20d0d9c",
+    "title": "Топпінг Smucker's Солона карамель",
+    "weighted": false,
+    "pack": {
+     "amount": 326.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823113303808",
+    "title": "Топінг Loft Солона карамель 280г",
+    "weighted": false,
+    "pack": {
+     "amount": 280.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "salted_cucumber": {
   "silpo": [
    {
@@ -10523,6 +16415,84 @@
     "title": "Кілька пряного посолу",
     "weighted": true,
     "pack": null
+   }
+  ]
+ },
+ "salted_trout": {
+  "silpo": [
+   {
+    "ref": "1ed07660-acaa-6ccc-966d-c1af87aa927f",
+    "title": "Форель філе слабосолене",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed075ff-5646-6c20-9007-dd63763181f9",
+    "title": "Форель Norven слабосолена філе шматок",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02861480000000",
+    "title": "Форель філе порційна слабосолена охолоджена",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "04823088800623",
+    "title": "Форель Novus філе-шматок на шкірі слабосолена 180г",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "sardines_canned": {
+  "silpo": [
+   {
+    "ref": "1edb23e7-5930-6dc8-8c04-07ce722ae755",
+    "title": "Сардина «Премія»® натуральна з додаванням олії",
+    "weighted": false,
+    "pack": {
+     "amount": 240.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07623-f8ac-625c-8589-dd63763181f9",
+    "title": "Сардина IRF натуральна з додаванням олії",
+    "weighted": false,
+    "pack": {
+     "amount": 230.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04650067810140",
+    "title": "Сардини Аквамарин бланшовані в олії 230г",
+    "weighted": false,
+    "pack": {
+     "amount": 230.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04823088800951",
+    "title": "Сардини Marka Promo натуральні з додаванням олії 240г",
+    "weighted": false,
+    "pack": {
+     "amount": 240.0,
+     "unit": "g"
+    }
    }
   ]
  },
@@ -10703,6 +16673,26 @@
    }
   ]
  },
+ "savory_dried": {
+  "silpo": [
+   {
+    "ref": "1ee1b83c-b351-6826-a7ba-fb2cb7302fda",
+    "title": "Чабер Банка спецій",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edca588-ed54-6d5a-9bee-5b8f2e9d16ca",
+    "title": "Чабер «Східний базар»",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
  "scallops": {
   "silpo": [
    {
@@ -10846,6 +16836,10 @@
    }
   ]
  },
+ "serviceberry": {
+  "silpo": [],
+  "novus": []
+ },
  "sesame_oil": {
   "silpo": [
    {
@@ -10875,6 +16869,57 @@
     "pack": {
      "amount": 200.0,
      "unit": "ml"
+    }
+   }
+  ]
+ },
+ "sesame_sauce": {
+  "silpo": [
+   {
+    "ref": "1ee15ff8-d90e-69b6-a522-f189640448c7",
+    "title": "Соус Bonsai professional кунжутний",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ed0761f-64ff-617a-821d-dd63763181f9",
+    "title": "Соус Kikkoman Sesame Dressing кунжутний до салатів",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1f10b917-5eb3-6c46-99cb-87e64b0d47e0",
+    "title": "Соус Mizkan з обсмаженого кунжуту грубого помолу",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820210551033",
+    "title": "Соус Peri-Peri Кунжутний 310г",
+    "weighted": false,
+    "pack": {
+     "amount": 310.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "08715035800007",
+    "title": "Соус Kikkoman Кунжутний 300г",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
     }
    }
   ]
@@ -10947,6 +16992,10 @@
     }
    }
   ]
+ },
+ "shichimi": {
+  "silpo": [],
+  "novus": []
  },
  "shiitake": {
   "silpo": [
@@ -11095,6 +17144,98 @@
    }
   ]
  },
+ "shrimp_shell_on": {
+  "silpo": [
+   {
+    "ref": "1ed075f4-7d62-640e-84cf-dd63763181f9",
+    "title": "Креветки «Премія»® глазуровані неочищені варено-морожені 70/90",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed075f4-7d62-608a-9bd4-dd63763181f9",
+    "title": "Креветки «Премія»® неочищені варено-морожені глазуровані 70/90",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820121340511",
+    "title": "Креветки Veladis нерозібрані глазуровані варено-морожені 70/90 1кг",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04770190073349",
+    "title": "Креветки Esva варено-морожені в панцирі з головою 70/90 900г",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "novus02879009000000",
+    "title": "Креветки цілі варено-морожені 40/60",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
+ "sichuan_chili_oil": {
+  "silpo": [],
+  "novus": []
+ },
+ "silken_tofu": {
+  "silpo": [],
+  "novus": []
+ },
+ "smoked_chicken_fillet": {
+  "silpo": [
+   {
+    "ref": "1ed0767b-5555-66a0-8764-eb0bb71c4ffc",
+    "title": "Філе куряче копчене «Димні Традиції»",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1f132d41-eb4c-6cf2-967c-35ddadd49308",
+    "title": "Філе куряче Український МК Бюст копчено-запечена в/ґ",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ee46edf-fb56-69d0-b7a1-c1d558d689c8",
+    "title": "Філе куряче м'ясне копчення",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02870189000000",
+    "title": "Філе куряче копчене",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "novus02885886000000",
+    "title": "Філе куряче Укрпромпостач-95 варено-копчене вищий сорт",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "smoked_duck_breast": {
   "silpo": [
    {
@@ -11129,6 +17270,39 @@
    }
   ],
   "novus": []
+ },
+ "smoked_ham": {
+  "silpo": [
+   {
+    "ref": "1ee116a1-0ad6-6b0c-af2d-e162648cfc9b",
+    "title": "Шинка Ходорівський МК Королівська свинна в/к в/ґ",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1eeb3fb8-7f8a-61de-89db-79169448aff8",
+    "title": "Шинка Лавка традицій Плай Гуцульська зі свинини копчено-варена в/ґ",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02885655000000",
+    "title": "Шинка Фарро Білоцерківська свиняча варено-копчена вищий сорт",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "04823036504924",
+    "title": "Шинка Алан Свиняча варено-копчена нарізка вищий сорт 100г",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ]
  },
  "smoked_mackerel": {
   "silpo": [
@@ -11190,6 +17364,33 @@
      "amount": 20.0,
      "unit": "g"
     }
+   }
+  ]
+ },
+ "smoked_pork_ears": {
+  "silpo": [
+   {
+    "ref": "1f0b4bf4-907e-654a-8a05-d3f0aca26f4f",
+    "title": "Вуха Лавка традицій свинячі варено-копчені",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ef61a1e-ab63-610c-9680-ffddab862a39",
+    "title": "Вуха свинячі варено-копчені в печі",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02858884000000",
+    "title": "Вуха свинячі П'ятачок Апетитні варено-копчені третій сорт",
+    "weighted": true,
+    "pack": null
    }
   ]
  },
@@ -11301,6 +17502,95 @@
    }
   ]
  },
+ "smoked_salt": {
+  "silpo": [
+   {
+    "ref": "1ed07680-ae7d-69a8-b253-c1af87aa927f",
+    "title": "Сіль Приправка морська копчена",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb8b8c-f63f-6ff8-a822-5dc9096b392c",
+    "title": "Сіль Maldon мальдонська копчена",
+    "weighted": false,
+    "pack": {
+     "amount": 125.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "smoked_suluguni": {
+  "silpo": [
+   {
+    "ref": "1efb74ea-fe8a-6516-885b-7bdcf86ee748",
+    "title": "Сир Крафтяр Сулугуні копчений",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed07612-c764-6dea-b4f1-dd63763181f9",
+    "title": "Сир «Монашинські сири» «Сулугуні» плетінка копчена 45%",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02886347000000",
+    "title": "Сир Монашинські Сири Сулугуні Плетінка копчена 45%",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "novus02881391000000",
+    "title": "Сир Сокіл Сулугуні копчений нитка 45%",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
+ "smoked_tofu": {
+  "silpo": [
+   {
+    "ref": "1f1033ab-5463-66d4-b79c-0db151113fa3",
+    "title": "Тофу Шинкар Агро копчений",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1efef58c-cc37-670a-b906-15c09fd6dc12",
+    "title": "Тофу Well Well Традиційний копчений на вільховому димі",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1eebb0c5-ba3d-69f6-940a-1f55a5a26b96",
+    "title": "Тофу НВАТ Агропрод Копчений на дровах вільхи",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02860582000000",
+    "title": "Тофу Агропрод копчений на дровах вільхи",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "smoked_turkey": {
   "silpo": [
    {
@@ -11316,6 +17606,24 @@
     "pack": null
    }
   ],
+  "novus": []
+ },
+ "snow_crab": {
+  "silpo": [
+   {
+    "ref": "1f176511-ba7d-6b56-8475-d1910cbca449",
+    "title": "Краб сніжний Chatka кінцівки без панцира, варено-морожений",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "snow_peas": {
+  "silpo": [],
   "novus": []
  },
  "soba_noodles": {
@@ -11350,6 +17658,29 @@
     }
    }
   ]
+ },
+ "somen_noodles": {
+  "silpo": [
+   {
+    "ref": "1f10eac6-0eb5-63d0-92c0-bbd6e05c5527",
+    "title": "Локшина Sunaoshi сомен",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f10b917-5c01-6c00-9c0c-7577f9f45776",
+    "title": "Локшина Itsuki Saisai сомен",
+    "weighted": false,
+    "pack": {
+     "amount": 320.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "sorrel": {
   "silpo": [
@@ -11532,6 +17863,20 @@
    }
   ]
  },
+ "soybean_sprouts": {
+  "silpo": [
+   {
+    "ref": "1edb86b1-8f65-60ba-a0ba-d36c520fec5e",
+    "title": "Паростки сої «Мікрогрін»",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "spaghetti": {
   "silpo": [
    {
@@ -11616,6 +17961,39 @@
    }
   ]
  },
+ "spelt": {
+  "silpo": [
+   {
+    "ref": "1ed07641-2403-6fa0-9f45-dd63763181f9",
+    "title": "Крупа «Екород» зі спельти органічна",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0767e-31ca-66d8-8968-c1af87aa927f",
+    "title": "Крупа «Білоцерківхлібпродукт» зі спельти цільна",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820153600218",
+    "title": "Спельта Екород органічна 400г",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "spelt_bread": {
   "silpo": [
    {
@@ -11644,6 +18022,39 @@
    }
   ],
   "novus": []
+ },
+ "spelt_flour": {
+  "silpo": [
+   {
+    "ref": "1ed0765a-ba63-648c-b33b-dd63763181f9",
+    "title": "Борошно Лавка традицій пшеничне зі спельти цільнозернове",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07641-2405-6116-a334-dd63763181f9",
+    "title": "Борошно «Зелений млин» зі спельти жорнового помелу",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820153600287",
+    "title": "Борошно зі спельти Екород органічне 800г",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
+     "unit": "g"
+    }
+   }
+  ]
  },
  "spinach": {
   "silpo": [
@@ -11685,6 +18096,48 @@
    {
     "ref": "04820268120045",
     "title": "Шпинат Salute Бебі 250г",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "spirulina": {
+  "silpo": [
+   {
+    "ref": "1ed07672-3584-632a-9d8a-c1af87aa927f",
+    "title": "Порошок Dragon Superfoods зі спіруліни",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07666-eca7-65cc-a87c-c1af87aa927f",
+    "title": "Спіруліна Intenson у порошку органічного походження",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820296140015",
+    "title": "Спіруліна Top Superfoods 100г",
+    "weighted": false,
+    "pack": {
+     "amount": 100.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820296140022",
+    "title": "Спіруліна Top Superfoods 250г",
     "weighted": false,
     "pack": {
      "amount": 250.0,
@@ -11735,6 +18188,10 @@
    }
   ]
  },
+ "spring_roll_wrappers": {
+  "silpo": [],
+  "novus": []
+ },
  "squid": {
   "silpo": [
    {
@@ -11762,11 +18219,48 @@
    }
   ]
  },
+ "squid_ink": {
+  "silpo": [
+   {
+    "ref": "1ed07636-cbf0-69da-b060-dd63763181f9",
+    "title": "Каракатиця, чорнила",
+    "weighted": false,
+    "pack": {
+     "amount": 4.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "squid_ink_linguine": {
   "silpo": [
    {
     "ref": "1edaed8c-b82d-6d76-ad81-c596f8a4e92f",
     "title": "Паста Morelli «Лінгвіне» з чорнилом каракатиці",
+    "weighted": false,
+    "pack": {
+     "amount": 250.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "squid_ink_spaghetti": {
+  "silpo": [
+   {
+    "ref": "1ed0760d-bac2-675e-bfe7-dd63763181f9",
+    "title": "Вироби макаронні Casa Rinaldi «Спагеті» з чорнилами каракатиці",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb24c9-9a24-6f22-93f1-c993ec6ed1e1",
+    "title": "Вироби макаронні Filotea «Спагеті» з чорнилом каракатиці",
     "weighted": false,
     "pack": {
      "amount": 250.0,
@@ -11895,6 +18389,29 @@
    }
   ]
  },
+ "strawberry_white_chocolate": {
+  "silpo": [
+   {
+    "ref": "1eda19d0-4e0a-679a-af7c-998a0267f7e8",
+    "title": "Шоколад білий Лавка традицій Almaziv з полуницею",
+    "weighted": false,
+    "pack": {
+     "amount": 80.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f11f455-4535-6088-825e-339220ad7ed2",
+    "title": "Шоколад білий Лавка Традицій Noco з полуницею без цукру",
+    "weighted": false,
+    "pack": {
+     "amount": 80.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "striploin_steak": {
   "silpo": [
    {
@@ -11957,6 +18474,23 @@
     }
    }
   ]
+ },
+ "sturgeon_steak": {
+  "silpo": [
+   {
+    "ref": "1edb857b-7687-6714-b370-69d695bb8b20",
+    "title": "Осетер, стейки охолоджені",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1edb7a7f-8917-6a98-92b1-11891dcf1244",
+    "title": "Осетер, стейки охолоджені",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
  },
  "sugar": {
   "silpo": [
@@ -12061,6 +18595,38 @@
   ],
   "novus": []
  },
+ "summer_truffle": {
+  "silpo": [
+   {
+    "ref": "1eef27f5-048f-65b4-badf-b931829d61c9",
+    "title": "Трюфель Tartufi Jimmy літній цілий TJ18",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07697-b2da-6020-9889-c1af87aa927f",
+    "title": "Трюфель Tartufi Jimmy літній цілий",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb24d5-bd00-6bca-b513-e990029622e2",
+    "title": "Трюфель Tartuflanghe літній цілий",
+    "weighted": false,
+    "pack": {
+     "amount": 20.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
  "sun_dried_tomatoes": {
   "silpo": [
    {
@@ -12140,6 +18706,48 @@
     "weighted": false,
     "pack": {
      "amount": 800.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
+ "sunflower_oil_unrefined": {
+  "silpo": [
+   {
+    "ref": "1ed07680-ae80-6c02-877b-c1af87aa927f",
+    "title": "Олія соняшникова «Повна Чаша»® нерафінована",
+    "weighted": false,
+    "pack": {
+     "amount": 850.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1ed07676-492c-689c-b65c-9d79fa2ad32f",
+    "title": "Олія соняшникова «Чумак» нерафінована",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820060043405",
+    "title": "Олія соняшникова Майола нерафінована першого гатунку 0,85л",
+    "weighted": false,
+    "pack": {
+     "amount": 850.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "04820078576056",
+    "title": "Олія соняшникова Чумак Домашня нерафінована 900мл",
+    "weighted": false,
+    "pack": {
+     "amount": 900.0,
      "unit": "ml"
     }
    }
@@ -12505,6 +19113,10 @@
   ],
   "novus": []
  },
+ "tapioca_pearls": {
+  "silpo": [],
+  "novus": []
+ },
  "tarragon": {
   "silpo": [
    {
@@ -12522,6 +19134,113 @@
     "weighted": false,
     "pack": {
      "amount": 20.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "tartar_sauce": {
+  "silpo": [
+   {
+    "ref": "1edaed56-6a50-6616-b0ca-4d6f8c275487",
+    "title": "Соус «Чумак» «Тартар»",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07622-1f56-6558-94a9-dd63763181f9",
+    "title": "Соус «Торчин» «Тартар» д/п",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820001314465",
+    "title": "Соус ТОРЧИН® Тартар 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820002193083",
+    "title": "Соус Щедро Тартар 200г",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "tartlets": {
+  "silpo": [
+   {
+    "ref": "1f0af9b0-11c7-6526-ae36-9992f337b3cd",
+    "title": "Тарталетка Премія кругла пісочна",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07649-68a1-6c36-b627-dd63763181f9",
+    "title": "Печиво «Премія»® тарталетка пісочна здобна",
+    "weighted": false,
+    "pack": {
+     "amount": 138.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820125271781",
+    "title": "Тарталетка Novus пісочна 16шт 120г",
+    "weighted": false,
+    "pack": {
+     "amount": 120.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820125271798",
+    "title": "Тарталетка Novus пісочна 40шт 300г",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "tempura_flour": {
+  "silpo": [
+   {
+    "ref": "1edaf88e-62d0-6394-8191-095b0f6e1b62",
+    "title": "Борошно Yumart «Темпура»",
+    "weighted": false,
+    "pack": {
+     "amount": 700.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f1638c4-087e-6e16-9542-c5310fa497b6",
+    "title": "Суміш Yutaka для кляру темпура",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
      "unit": "g"
     }
    }
@@ -12659,6 +19378,53 @@
   ],
   "novus": []
  },
+ "tiger_prawns_head_on": {
+  "silpo": [
+   {
+    "ref": "1f0dac2b-2d1b-6dc4-908f-35ad91631fed",
+    "title": "Креветки Сільпо тигрові чорні цілі в панцирі сирі глазуровані свіжоморожені 16/20",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f0dac2b-291d-6c18-a553-dffc4497285d",
+    "title": "Креветки Сільпо тигрові чорні цілі в панцирі сирі глазуровані свіжоморожені 8/12",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "tilapia_fillet": {
+  "silpo": [
+   {
+    "ref": "1ed075ea-ed4e-642a-b123-dd63763181f9",
+    "title": "Тилапія філе в глазурі свіжоморожена",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed076a4-e24f-662c-ab40-45a3653d0710",
+    "title": "Тилапія Veladis філе фасоване в глазурі без шкіри свіжоморожена",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02858297000000",
+    "title": "Тиляпія філе свіжеморожена",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "tkemali": {
   "silpo": [
    {
@@ -12734,6 +19500,43 @@
    }
   ]
  },
+ "toast_cheese": {
+  "silpo": [
+   {
+    "ref": "1ed07695-6525-6868-891f-dd63763181f9",
+    "title": "Сир плавлений «Премія»® Тостовий скибочками 36,2%",
+    "weighted": false,
+    "pack": {
+     "amount": 130.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f159552-fbd5-6cf6-9616-5b61de2d6c4d",
+    "title": "Сир плавлений Hochland Тост скибочки 36%",
+    "weighted": false,
+    "pack": {
+     "amount": 130.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "05902899137544",
+    "title": "Сир плавлений Hochland Тост скибочками 40% 130г",
+    "weighted": false,
+    "pack": {
+     "amount": 130.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "tobiko": {
+  "silpo": [],
+  "novus": []
+ },
  "tofu": {
   "silpo": [
    {
@@ -12766,6 +19569,29 @@
     }
    }
   ]
+ },
+ "tom_kha_paste": {
+  "silpo": [
+   {
+    "ref": "1ed07687-0acf-6a52-82ba-c1af87aa927f",
+    "title": "Паста Aroy-D «Том Кха»",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07632-a15e-69b4-bc2d-dd63763181f9",
+    "title": "Паста deSiam «Том Кха» тайська для супу",
+    "weighted": false,
+    "pack": {
+     "amount": 70.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
  },
  "tom_yum_paste": {
   "silpo": [
@@ -12920,8 +19746,36 @@
    }
   ]
  },
+ "tonkatsu_sauce": {
+  "silpo": [
+   {
+    "ref": "1edb8311-cec4-6272-b1ee-33853681da2c",
+    "title": "Соус House of Asia Тонкацу",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": []
+ },
  "tortellini": {
   "silpo": [],
+  "novus": []
+ },
+ "tortiglioni": {
+  "silpo": [
+   {
+    "ref": "1edb830b-d23b-6d5c-96d3-33853681da2c",
+    "title": "Вироби макаронні Pastificio Di Martino Tortiglioni",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   }
+  ],
   "novus": []
  },
  "tortilla": {
@@ -12978,6 +19832,48 @@
     "title": "Форель Norven атлантична філе охолоджена",
     "weighted": true,
     "pack": null
+   }
+  ]
+ },
+ "trout_roe": {
+  "silpo": [
+   {
+    "ref": "1f09941c-9bd2-6a90-942a-371060d820c1",
+    "title": "Ікра форелі Класичний посол лососева зерниста з/б",
+    "weighted": false,
+    "pack": {
+     "amount": 70.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edbedab-21bf-6f18-9eb0-7b5c5cb50f74",
+    "title": "Ікра лососева Norven Форелі зерниста",
+    "weighted": false,
+    "pack": {
+     "amount": 110.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823124002554",
+    "title": "Ікра форелі Класичний Посол лососева зерниста 70г",
+    "weighted": false,
+    "pack": {
+     "amount": 70.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820224230269",
+    "title": "Ікра форелі Norven солено-морожена 180г",
+    "weighted": false,
+    "pack": {
+     "amount": 180.0,
+     "unit": "g"
+    }
    }
   ]
  },
@@ -13145,6 +20041,10 @@
    }
   ]
  },
+ "tteok": {
+  "silpo": [],
+  "novus": []
+ },
  "tuna_steak": {
   "silpo": [
    {
@@ -13181,6 +20081,30 @@
    }
   ]
  },
+ "turkey_drumstick": {
+  "silpo": [
+   {
+    "ref": "1edb79c7-f82f-615a-889b-df6a25f287d2",
+    "title": "Індича гомілка охолоджена",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1efdaaad-ce18-677a-91d6-330345a6c2d0",
+    "title": "Гомілка індика Petit Ja фермерського охолоджена в/у",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02885981000000",
+    "title": "М'ясо гомілки індика охолоджене",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "turkey_fillet": {
   "silpo": [
    {
@@ -13194,6 +20118,30 @@
    {
     "ref": "novus02856510000000",
     "title": "Філе індички охолоджене",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
+ "turkey_gizzards": {
+  "silpo": [
+   {
+    "ref": "1ed075f9-db61-6b72-827e-dd63763181f9",
+    "title": "Шлунки індичі",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed0767c-b307-6c02-9d81-eb0bb71c4ffc",
+    "title": "Шлунки індика охолоджені «Сяйвір» в/у",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02885979000000",
+    "title": "Шлунок індичий охолоджений",
     "weighted": true,
     "pack": null
    }
@@ -13233,6 +20181,123 @@
    }
   ],
   "novus": []
+ },
+ "turkey_pelmeni": {
+  "silpo": [
+   {
+    "ref": "1ed07650-40f3-603e-ac2b-dd63763181f9",
+    "title": "Пельмені «Левада» з м'ясом індички",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07616-9d52-6a12-9068-dd63763181f9",
+    "title": "Пельмені «Геркулес» з м'ясом індички",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed076a5-ac02-6848-9476-29fd0f44b629",
+    "title": "Пельмені «Три ведмеді» з м'ясом індички",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823088804522",
+    "title": "Пельмені Novus з м'ясом індички 600г",
+    "weighted": false,
+    "pack": {
+     "amount": 600.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04823086112230",
+    "title": "Пельмені Три Ведмеді з м'ясом індички 800г",
+    "weighted": false,
+    "pack": {
+     "amount": 800.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "turkey_sausages": {
+  "silpo": [
+   {
+    "ref": "1ed07646-9dff-69bc-89fa-dd63763181f9",
+    "title": "Сосиски «Алан» Fitness format Індичі філейні в/а в/ґ",
+    "weighted": false,
+    "pack": {
+     "amount": 225.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f132d41-db80-6dbe-b3eb-35ddadd49308",
+    "title": "Сосиски Mr.Grill Індичі б/о в/ґ",
+    "weighted": false,
+    "pack": {
+     "amount": 330.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823036502289",
+    "title": "Сосиски Алан Фітнес Індичі філейні варені вищий сорт 225г",
+    "weighted": false,
+    "pack": {
+     "amount": 225.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04823036506850",
+    "title": "Сосиски Спец Цех Алан Індичі вищий сорт 300г",
+    "weighted": false,
+    "pack": {
+     "amount": 300.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "turkey_thigh": {
+  "silpo": [
+   {
+    "ref": "1ed0767c-b306-67bc-b2f7-eb0bb71c4ffc",
+    "title": "Стегно індика охолоджене «Сяйвір» в/у",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1edb79c7-f82e-6c82-ae97-df6a25f287d2",
+    "title": "Індиче стегно охолоджене",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02858424000000",
+    "title": "М'ясо стегна індика",
+    "weighted": true,
+    "pack": null
+   }
+  ]
  },
  "turmeric": {
   "silpo": [
@@ -13275,6 +20340,21 @@
     }
    }
   ]
+ },
+ "tyulka": {
+  "silpo": [],
+  "novus": []
+ },
+ "tyulka_salted": {
+  "silpo": [
+   {
+    "ref": "1edb86cc-a5c2-6a7c-930d-53e7405e8b7a",
+    "title": "Тюлька солоно-морожена",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
  },
  "udon": {
   "silpo": [
@@ -13443,6 +20523,14 @@
    }
   ]
  },
+ "veal_brain": {
+  "silpo": [],
+  "novus": []
+ },
+ "veal_cheeks": {
+  "silpo": [],
+  "novus": []
+ },
  "veal_liver": {
   "silpo": [
    {
@@ -13465,6 +20553,23 @@
    {
     "ref": "1ed0769c-3843-60fa-8367-eb0bb71c4ffc",
     "title": "Телятина молочна Ekro каре охолоджена в/у",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "veal_shank": {
+  "silpo": [
+   {
+    "ref": "1edb88bf-2d23-67c0-9bd7-69d695bb8b20",
+    "title": "Теляча гомілка Оссобуко",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1edbc5e4-2f8f-61a0-bfc9-2b5c1b462f51",
+    "title": "Теляча гомілка",
     "weighted": true,
     "pack": null
    }
@@ -13494,6 +20599,30 @@
   ],
   "novus": []
  },
+ "veal_tenderloin": {
+  "silpo": [
+   {
+    "ref": "1edcf443-65f8-6410-830a-85b987caf9ec",
+    "title": "Теляча вирізка охолоджена в/у",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1edb7f4e-2d09-6ae8-b3aa-5977fa14bc99",
+    "title": "Теляча вирізка охолоджена",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": [
+   {
+    "ref": "novus02856474000000",
+    "title": "Вирізка теляча охолоджена",
+    "weighted": true,
+    "pack": null
+   }
+  ]
+ },
  "veal_tongue": {
   "silpo": [
    {
@@ -13501,6 +20630,29 @@
     "title": "Язик телячий Ekro охолоджений",
     "weighted": true,
     "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "vegan_butter": {
+  "silpo": [
+   {
+    "ref": "1ef8b0d9-365f-6500-a477-0191e86150ce",
+    "title": "Суміш рослинних жирів Naturale зі смаком вершкового масла 75%",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ef82a03-2501-648c-a49b-659a378adf43",
+    "title": "Суміш рослинних жирів Naturale зі смаком авокадо веганська 75%",
+    "weighted": false,
+    "pack": {
+     "amount": 200.0,
+     "unit": "g"
+    }
    }
   ],
   "novus": []
@@ -13594,6 +20746,48 @@
   ],
   "novus": []
  },
+ "vegetable_broth": {
+  "silpo": [
+   {
+    "ref": "1ed2f42a-0ee8-6dd2-a55e-8f05abac3364",
+    "title": "Бульйон Food Studio Goods овочевий",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "venison": {
+  "silpo": [
+   {
+    "ref": "1ed07677-bf30-6394-8038-9d79fa2ad32f",
+    "title": "Стегно оленя б/к с/м",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ed07677-bf30-66e6-b63c-9d79fa2ad32f",
+    "title": "Лопатка оленя б/к с/м",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "viennese_waffles": {
+  "silpo": [
+   {
+    "ref": "1edbc4b1-6a15-6c72-8f4c-2b5c1b462f51",
+    "title": "Віденські вафлі",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
  "vinegar_9": {
   "silpo": [
    {
@@ -13636,6 +20830,131 @@
    }
   ]
  },
+ "vodka": {
+  "silpo": [
+   {
+    "ref": "1ee22a75-f2ed-6dbc-a00a-21f2a0dc831d",
+    "title": "Горілка Oxygenium особлива",
+    "weighted": false,
+    "pack": {
+     "amount": 700.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "1edb7c88-cae6-6022-8495-5fd26e6ec661",
+    "title": "Горілка Absolut 40%",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04607024761434",
+    "title": "Горілка Oxigenium 40% 0,5л",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "ml"
+    }
+   },
+   {
+    "ref": "04823098200574",
+    "title": "Горілка Oxigenium 40% 1л",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
+ "wafer_sheets": {
+  "silpo": [
+   {
+    "ref": "1ed075fe-0dd0-6726-b6d1-dd63763181f9",
+    "title": "Коржі вафельні Lekorna",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed07631-5048-60da-8f05-dd63763181f9",
+    "title": "Коржі вафельні Lekorna «Класика»",
+    "weighted": false,
+    "pack": {
+     "amount": 90.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820088350028",
+    "title": "Коржі вафельні Lekorna 50г",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820143330019",
+    "title": "Коржі вафельні Lekorna Класика для торта 90г",
+    "weighted": false,
+    "pack": {
+     "amount": 90.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "wagyu_ribeye": {
+  "silpo": [
+   {
+    "ref": "1edf4fde-42ba-6018-8468-6f3cc8129933",
+    "title": "Яловичина Вагю клас 3 стейк Рібай в/у",
+    "weighted": true,
+    "pack": null
+   },
+   {
+    "ref": "1ee1ab69-2291-6d3e-bc18-fb2cb7302fda",
+    "title": "Яловичина Вагю стейк Рібай Блек Wet Aged в/у",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
+ "wakame": {
+  "silpo": [
+   {
+    "ref": "1f1638c3-ef69-65de-90e0-c5310fa497b6",
+    "title": "Водорості Yutaka вакаме сушені",
+    "weighted": false,
+    "pack": {
+     "amount": 40.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823117900683",
+    "title": "Водорості Вакаме JS сушені 30г",
+    "weighted": false,
+    "pack": {
+     "amount": 30.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "walnuts": {
   "silpo": [
    {
@@ -13664,6 +20983,48 @@
     "weighted": false,
     "pack": {
      "amount": 100.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "wasabi": {
+  "silpo": [
+   {
+    "ref": "1edaf4f1-6681-607e-8177-21996f99fc3d",
+    "title": "Паста Yumart «Васабі»",
+    "weighted": false,
+    "pack": {
+     "amount": 43.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb04da-8b59-61dc-b3e4-2f3643d88bc7",
+    "title": "Паста House of Asia Васабі",
+    "weighted": false,
+    "pack": {
+     "amount": 43.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820172440222",
+    "title": "Васабі Hokkaido Club міцний 140г",
+    "weighted": false,
+    "pack": {
+     "amount": 140.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820172440185",
+    "title": "Васабі Hokkaido Club сухе 30г",
+    "weighted": false,
+    "pack": {
+     "amount": 30.0,
      "unit": "g"
     }
    }
@@ -13822,6 +21183,48 @@
    }
   ]
  },
+ "white_chocolate": {
+  "silpo": [
+   {
+    "ref": "1ed0768e-c550-6ece-8f14-c1af87aa927f",
+    "title": "Шоколад білий Millennium пористий",
+    "weighted": false,
+    "pack": {
+     "amount": 85.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edaf67c-8b75-651a-8328-095b0f6e1b62",
+    "title": "Шоколад білий Millennium Premium пористий",
+    "weighted": false,
+    "pack": {
+     "amount": 90.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04823077613104",
+    "title": "Шоколад білий Roshen пористий 80г",
+    "weighted": false,
+    "pack": {
+     "amount": 80.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820075505523",
+    "title": "Шоколад білий Millennium Premium пористий 85г",
+    "weighted": false,
+    "pack": {
+     "amount": 85.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
  "white_wine": {
   "silpo": [
    {
@@ -13863,6 +21266,85 @@
     }
    }
   ]
+ },
+ "whole_grain_bread": {
+  "silpo": [
+   {
+    "ref": "1efef58b-e212-6472-8cc1-15c09fd6dc12",
+    "title": "Хліб Київхліб Рустикальний цільнозерновий нарізаний в упаковці",
+    "weighted": false,
+    "pack": {
+     "amount": 350.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edafb50-e523-6354-9078-5f8022da6d6b",
+    "title": "Хліб «Полонинський хліб» цільнозерновий нарізаний",
+    "weighted": false,
+    "pack": {
+     "amount": 700.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820159023516",
+    "title": "Хліб Цар Хліб Цей Тост з цільнозерновим борошном 330г",
+    "weighted": false,
+    "pack": {
+     "amount": 330.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "04820062052689",
+    "title": "Хліб Рум'янець пшеничний цільнозерновий нарізаний 400г",
+    "weighted": false,
+    "pack": {
+     "amount": 400.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "whole_wheat_flour": {
+  "silpo": [
+   {
+    "ref": "1ed076a2-2b61-6fe8-9e21-45a3653d0710",
+    "title": "Борошно EuroMill пшеничне цільнозернове",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed0765a-ba63-613a-acce-dd63763181f9",
+    "title": "Борошно Лавка традицій пшеничне цільнозернове жорновий помел",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820213980151",
+    "title": "Борошно EuroMill пшеничне цільнозернове сіяне 1кг",
+    "weighted": false,
+    "pack": {
+     "amount": 1000.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "wild_garlic_pickled": {
+  "silpo": [],
+  "novus": []
  },
  "wild_rice": {
   "silpo": [
@@ -13939,6 +21421,53 @@
    }
   ]
  },
+ "wood_ear_mushroom": {
+  "silpo": [
+   {
+    "ref": "1ed21e6a-4adf-684a-9aa4-ef904fa4ce13",
+    "title": "Гриби мун Asia Kitchen чорні сушені",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1edb830a-6043-67c8-ac73-75858a829eca",
+    "title": "Гриби House of Asia Мун сушені нарізані",
+    "weighted": false,
+    "pack": {
+     "amount": 30.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": []
+ },
+ "worcestershire_sauce": {
+  "silpo": [
+   {
+    "ref": "1ed7ab7f-d4c7-66f0-9c4b-7174206e6600",
+    "title": "Соус Lea&Perrins «Вустерширський»",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "ml"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "05000157073020",
+    "title": "Соус Heinz Вустерський 150мл",
+    "weighted": false,
+    "pack": {
+     "amount": 150.0,
+     "unit": "ml"
+    }
+   }
+  ]
+ },
  "yalta_onion": {
   "silpo": [],
   "novus": [
@@ -13950,6 +21479,50 @@
    }
   ]
  },
+ "yellow_curry_paste": {
+  "silpo": [
+   {
+    "ref": "1eee7134-ea2a-668c-9404-8f7dfdcb7b0c",
+    "title": "Паста Aroy-D Каррі жовта",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1f067504-0c5d-6930-89dc-156ebb43c248",
+    "title": "Паста Blue Elephant каррі жовта",
+    "weighted": false,
+    "pack": {
+     "amount": 70.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "00016229906429",
+    "title": "Паста Aroy-D каррі жовта 50г",
+    "weighted": false,
+    "pack": {
+     "amount": 50.0,
+     "unit": "g"
+    }
+   }
+  ]
+ },
+ "yellowtail_fillet": {
+  "silpo": [
+   {
+    "ref": "1f0bc378-587d-60aa-ae56-e1a38a4aa66a",
+    "title": "Лакедра, філе охолоджене",
+    "weighted": true,
+    "pack": null
+   }
+  ],
+  "novus": []
+ },
  "young_chicken": {
   "silpo": [],
   "novus": [
@@ -13960,6 +21533,14 @@
     "pack": null
    }
   ]
+ },
+ "zaatar": {
+  "silpo": [],
+  "novus": []
+ },
+ "zhurek_starter": {
+  "silpo": [],
+  "novus": []
  },
  "zucchini": {
   "silpo": [
@@ -13976,6 +21557,39 @@
     "title": "Кабачок",
     "weighted": true,
     "pack": null
+   }
+  ]
+ },
+ "zucchini_caviar": {
+  "silpo": [
+   {
+    "ref": "1ed0765e-4a02-66ee-9d5c-c1af87aa927f",
+    "title": "Ікра кабачкова «Верес» екстра",
+    "weighted": false,
+    "pack": {
+     "amount": 500.0,
+     "unit": "g"
+    }
+   },
+   {
+    "ref": "1ed075f8-5602-6298-a474-dd63763181f9",
+    "title": "Ікра кабачкова «Премія»®",
+    "weighted": false,
+    "pack": {
+     "amount": 450.0,
+     "unit": "g"
+    }
+   }
+  ],
+  "novus": [
+   {
+    "ref": "04820047004436",
+    "title": "Ікра з кабачків Літня NOVUS 450г",
+    "weighted": false,
+    "pack": {
+     "amount": 450.0,
+     "unit": "g"
+    }
    }
   ]
  }
